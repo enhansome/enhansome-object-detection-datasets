@@ -1,0 +1,1186 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "M-3LAB/awesome-industrial-anomaly-detection",
+              "description": "Paper list and datasets for industrial image anomaly detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-12T07:16:05Z",
+                "owner": "M-3LAB",
+                "repo": "awesome-industrial-anomaly-detection",
+                "stars": 3735
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wenhwu/awesome-remote-sensing-change-detection",
+              "description": "List of datasets, codes, and contests related to remote sensing change detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-04-16T14:44:49Z",
+                "owner": "wenhwu",
+                "repo": "awesome-remote-sensing-change-detection",
+                "stars": 2299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZHOUYI1023/awesome-radar-perception",
+              "description": "A curated list of radar datasets, detection, tracking and fusion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-04-05T08:00:29Z",
+                "owner": "ZHOUYI1023",
+                "repo": "awesome-radar-perception",
+                "stars": 1875
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xahidbuffon/Awesome_Underwater_Datasets",
+              "description": "Pointers to large-scale underwater datasets and relevant resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-05-22T03:27:29Z",
+                "owner": "xahidbuffon",
+                "repo": "Awesome_Underwater_Datasets",
+                "stars": 706
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TianhaoFu/Awesome-3D-Object-Detection",
+              "description": "Papers, code and datasets about deep learning for 3D Object Detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-09-17T02:50:43Z",
+                "owner": "vvincenttttt",
+                "repo": "Awesome-3D-Object-Detection",
+                "stars": 692
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lartpang/awesome-segmentation-saliency-dataset",
+              "description": "A collection of some datasets for segmentation / saliency detection. Welcome to PR...😄",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-24T14:54:18Z",
+                "owner": "lartpang",
+                "repo": "awesome-segmentation-saliency-dataset",
+                "stars": 638
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DLLXW/objectDetectionDatasets",
+              "description": "目标检测数据集制作:VOC,COCO,YOLO等常用数据集格式的制作和互相转换脚本。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2021-10-21T06:21:55Z",
+                "owner": "DLLXW",
+                "repo": "objectDetectionDatasets",
+                "stars": 476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ari-dasci/OD-WeaponDetection",
+              "description": "Datasets for weapon detection based on image classification and object detection tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-01-05T12:18:10Z",
+                "owner": "ari-dasci",
+                "repo": "OD-WeaponDetection",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "codingonion/awesome-object-detection-and-recognition-datasets",
+              "description": "A collection of some awesome public object detection and recognition datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-01-07T16:07:01Z",
+                "owner": "coderonion",
+                "repo": "awesome-object-detection-datasets",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZhangXiwuu/Awesome_visual_place_recognition_datasets",
+              "description": "A curated list of Visual Place Recognition (VPR)/ loop closure detection (LCD) datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-12-09T13:32:19Z",
+                "owner": "z014xw",
+                "repo": "Awesome_visual_place_recognition_datasets",
+                "stars": 121
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "openvinotoolkit/datumaro",
+              "description": "Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T14:59:48Z",
+                "owner": "open-edge-platform",
+                "repo": "datumaro",
+                "stars": 682
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Label Studio",
+                  "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format. labelstud.io",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-13T00:15:52Z",
+                    "owner": "HumanSignal",
+                    "repo": "label-studio",
+                    "stars": 28040
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LabelImg",
+                  "description": "🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Python",
+                    "last_commit": "2024-06-07T20:24:32Z",
+                    "owner": "HumanSignal",
+                    "repo": "labelImg",
+                    "stars": 25066
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CVAT",
+                  "description": "Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T07:35:01Z",
+                    "owner": "cvat-ai",
+                    "repo": "cvat",
+                    "stars": 16507
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "labelme",
+                  "description": "Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-08T02:53:11Z",
+                    "owner": "wkentaro",
+                    "repo": "labelme",
+                    "stars": 16098
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VoTT",
+                  "description": "Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "TypeScript",
+                    "last_commit": "2021-12-06T21:10:56Z",
+                    "owner": "microsoft",
+                    "repo": "VoTT",
+                    "stars": 4429
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AnyLabeling",
+                  "description": "Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-09T05:52:06Z",
+                    "owner": "vietanhdev",
+                    "repo": "anylabeling",
+                    "stars": 3451
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AlexeyAB/Yolo_mark",
+                  "description": "GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2020-12-11T00:29:20Z",
+                    "owner": "AlexeyAB",
+                    "repo": "Yolo_mark",
+                    "stars": 1840
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "opendatalab/labelU",
+                  "description": "Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-07-28T12:11:08Z",
+                    "owner": "opendatalab",
+                    "repo": "labelU",
+                    "stars": 1654
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cartucho/OpenLabeling",
+                  "description": "Label images and video for Computer Vision applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2022-07-06T19:58:48Z",
+                    "owner": "Cartucho",
+                    "repo": "OpenLabeling",
+                    "stars": 962
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MyVision",
+                  "description": "Computer vision based ML training data generation tool 🚀",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-30T13:59:19Z",
+                    "owner": "OvidijusParsiunas",
+                    "repo": "myvision",
+                    "stars": 611
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rectlabel-support",
+                  "description": "RectLabel - An image annotation tool to label images for bounding box object detection and segmentation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-06-10T14:06:39Z",
+                    "owner": "ryouchinsa",
+                    "repo": "Rectlabel-support",
+                    "stars": 552
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cnyvfang/labelGo-Yolov5AutoLabelImg",
+                  "description": "💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕一个基于labelImg及YOLOV5的图形化半自动标注工具。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Python",
+                    "last_commit": "2023-06-22T13:05:54Z",
+                    "owner": "cnyvfang",
+                    "repo": "labelGo",
+                    "stars": 480
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DarkLabel",
+                  "description": "Video/Image Labeling and Annotation Tool.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2021-09-04T10:02:35Z",
+                    "owner": "darkpgmr",
+                    "repo": "DarkLabel",
+                    "stars": 391
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "pylabel-project/pylabel",
+                  "description": "Python library for computer vision labeling tasks. The core functionality is to translate bounding box annotations between different formats-for example, from coco to yolo.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2024-08-14T06:24:17Z",
+                    "owner": "pylabel-project",
+                    "repo": "pylabel",
+                    "stars": 341
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wufan-tb/AutoLabelImg",
+                  "description": "auto-labelimg based on yolov5, with many other useful tools. AutoLabelImg 多功能自动标注工具。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-02-26T06:45:37Z",
+                    "owner": "wufan-tb",
+                    "repo": "AutoLabelImg",
+                    "stars": 298
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "stephanecharette/DarkMark",
+                  "description": "Marking up images for use with Darknet.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-01-31T08:08:26Z",
+                    "owner": "stephanecharette",
+                    "repo": "DarkMark",
+                    "stars": 233
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CVUsers/Auto_maker",
+                  "description": "深度学习数据自动标注器开源 目标检测和图像分类（高精度高效率）。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2021-01-18T08:32:22Z",
+                    "owner": "CVUsers",
+                    "repo": "Auto_maker",
+                    "stars": 205
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WangRongsheng/KDAT",
+                  "description": "一个专为视觉方向目标检测全流程的标注工具集，全称：Kill Object Detection Annotation Tools。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-04-24T09:21:00Z",
+                    "owner": "WangRongsheng",
+                    "repo": "KDAT",
+                    "stars": 83
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "sanfooh/quick_yolo2_label_tool",
+                  "description": "yolo快速标注工具 quick yolo2 label tool.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C#",
+                    "last_commit": "2018-06-20T07:28:25Z",
+                    "owner": "sanfooh",
+                    "repo": "quick_yolo2_label_tool",
+                    "stars": 79
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AlturosDestinations/Alturos.ImageAnnotation",
+                  "description": "A collaborative tool for labeling image data for yolo.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C#",
+                    "last_commit": "2021-01-29T20:30:23Z",
+                    "owner": "AlturosDestinations",
+                    "repo": "Alturos.ImageAnnotation",
+                    "stars": 70
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2vin/yolo_annotation_tool",
+                  "description": "Annotation tool for YOLO in opencv.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-04-12T18:23:47Z",
+                    "owner": "2vin",
+                    "repo": "yolo_annotation_tool",
+                    "stars": 55
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "2vin/PyYAT",
+                  "description": "Semi-Automatic Yolo Annotation Tool In Python.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-08-23T22:43:19Z",
+                    "owner": "2vin",
+                    "repo": "PyYAT",
+                    "stars": 22
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MrZander/YoloMarkNet",
+                  "description": "Darknet YOLOv2/3 annotation tool written in C#/WPF.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C#",
+                    "last_commit": "2018-05-06T22:29:22Z",
+                    "owner": "MrZander",
+                    "repo": "YoloMarkNet",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "folkien/yaya",
+                  "description": "YAYA - Yet annother YOLO annoter for images (in QT5). Support yolo format, image modifications, labeling and detecting with previously trained detector.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-03-21T21:30:06Z",
+                    "owner": "AISP-PL",
+                    "repo": "yaya",
+                    "stars": 8
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LILINOpenGitHub/Labeling-Tool",
+                  "description": "Free YOLO AI labeling tool. YOLO AI labeling tool is a Windows app for labeling YOLO dataset.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2022-05-03T12:32:07Z",
+                    "owner": "LILINOpenGitHub",
+                    "repo": "Labeling-Tool",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MNConnor/YoloV5-AI-Label",
+                  "description": "YoloV5 AI Assisted Labeling.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2022-04-03T20:31:19Z",
+                    "owner": "MNConnor",
+                    "repo": "YoloV5-AI-Label",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mahxn0/Yolov3_ForTextLabel",
+                  "description": "基于yolov3的目标/自然场景文字自动标注工具。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C",
+                    "last_commit": "2020-05-29T05:57:52Z",
+                    "owner": "mahxn0",
+                    "repo": "Yolov3_ForTextLabel",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "whs0523003/YOLOv5_6.1_autolabel",
+                  "description": "YOLOv5_6.1 自动标记目标框。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2022-09-28T16:18:30Z",
+                    "owner": "whs0523003",
+                    "repo": "YOLOv5_6.1_autolabel",
+                    "stars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Albumentations",
+                  "description": "Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. \"Albumentations: Fast and Flexible Image Augmentations\". (Information 2020)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Python",
+                    "last_commit": "2025-06-25T23:21:43Z",
+                    "owner": "albumentations-team",
+                    "repo": "albumentations",
+                    "stars": 15317
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "doubleZ0108/Data-Augmentation",
+                  "description": "General Data Augmentation Algorithms for Object Detection(esp. Yolo).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2023-04-14T03:50:12Z",
+                    "owner": "doubleZ0108",
+                    "repo": "Data-Augmentation",
+                    "stars": 16
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "YOLOExplorer",
+                  "description": "YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds. Explore, manipulate and iterate on Computer Vision datasets with precision using simple APIs. Supports SQL filters, vector similarity search, native interface with Pandas and more.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Python",
+                    "last_commit": "2026-08-03T16:42:29Z",
+                    "owner": "lancedb",
+                    "repo": "yoloexplorer",
+                    "stars": 144
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Summary"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CCTSDB",
+              "description": "CSUST Chinese Traffic Sign Detection Benchmark 中国交通数据集由长沙理工大学综合交通运输大数据智能处理湖南省重点实验室张建明老师团队制作完成。 \"A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2\". (Algorithms, 2017)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-07-12T10:47:57Z",
+                "owner": "csust7zhangjm",
+                "repo": "CCTSDB",
+                "stars": 268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CCTSDB2021",
+              "description": "\"CCTSDB 2021: a more comprehensive traffic sign detection benchmark\". (Human-centric Computing and Information Sciences, 2022)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-25T11:04:51Z",
+                "owner": "csust7zhangjm",
+                "repo": "CCTSDB2021",
+                "stars": 101
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CCPD",
+              "description": "\"Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline\". (ECCV 2018)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-02-15T22:34:00Z",
+                "owner": "detectRecog",
+                "repo": "CCPD",
+                "stars": 2643
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Autonomous Driving Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TinyPerson",
+          "description": "\"Scale Match for Tiny Person Detection\". (WACV 2020)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-12T07:10:04Z",
+            "owner": "ucas-vg",
+            "repo": "PointTinyBenchmark",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyPerson v2 | SeaPerson",
+          "description": "\"Object Localization Under Single Coarse Point Supervision\". (CVPR 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-12T07:10:04Z",
+            "owner": "ucas-vg",
+            "repo": "PointTinyBenchmark",
+            "stars": 693
+          }
+        }
+      ],
+      "title": "Person Detection Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VisDrone",
+          "description": "\"Detection and Tracking Meet Drones Challenge\". (IEEE TPAMI 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-24T06:42:49Z",
+            "owner": "VisDrone",
+            "repo": "VisDrone-Dataset",
+            "stars": 2491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI-TOD",
+          "description": "\"Tiny Object Detection in Aerial Images\". (IEEE ICPR 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-13T20:00:00Z",
+            "owner": "jwwangchn",
+            "repo": "AI-TOD",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSOD",
+          "description": "\"Accurate object localization in remote sensing images based on convolutional neural networks\". (IEEE TGRS 2017)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-04-30T08:04:48Z",
+            "owner": "RSIA-LIESMARS-WHU",
+            "repo": "RSOD-Dataset-",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VISO",
+          "description": "\"Detecting and Tracking Small and Dense Moving Objects in Satellite Videos: A Benchmark\". (IEEE TGRS 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-12-22T06:47:19Z",
+            "owner": "QingyongHu",
+            "repo": "VISO",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RsCarData",
+          "description": "\"DSFNet: Dynamic and Static Fusion Network for Moving Object Detection in Satellite Videos\". (IEEE GRSL 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-28T15:44:35Z",
+            "owner": "ChaoXiao12",
+            "repo": "Moving-object-detection-DSFNet",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeaDronesSee",
+          "description": "\"SeaDronesSee: A Maritime Benchmark for Detecting Humans in Open Water\". (WACV 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-13T23:56:24Z",
+            "owner": "Ben93kie",
+            "repo": "SeaDronesSee",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COWC",
+          "description": "\"A large contextual dataset for classification, detection and counting of cars with deep learning\". (ECCV 2016)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-29T23:14:13Z",
+            "owner": "llnl",
+            "repo": "cowc",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEVIR-Ship",
+          "description": "\"A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset\". (IEEE TGRS 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-15T16:00:49Z",
+            "owner": "WindVChen",
+            "repo": "LEVIR-Ship",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PESMOD",
+          "description": "\"UAV Images Dataset for Moving Object Detection from Moving Cameras\". (arXiv 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-01-10T09:24:06Z",
+            "owner": "mribrahim",
+            "repo": "PESMOD",
+            "stars": 58
+          }
+        }
+      ],
+      "title": "Optical Aerial Imagery Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NUDT-SIRST",
+          "description": "\"Dense Nested Attention Network for Infrared Small Target Detection\". (arXiv 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-06T14:11:33Z",
+            "owner": "YeRen123455",
+            "repo": "Infrared-Small-Target-Detection",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIRST",
+          "description": "\"Asymmetric Contextual Modulation for Infrared Small Target Detection\". (WACV 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-08T20:52:50Z",
+            "owner": "YimianDai",
+            "repo": "sirst",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SCUT_FIR_Pedestrian_Dataset",
+          "description": "\"Benchmarking a large-scale FIR dataset for on-road pedestrian detection\". (Infrared Physics & Technology, 2019)",
+          "children": []
+        }
+      ],
+      "title": "Infrared Image Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SAR-Ship-Dataset",
+          "description": "\"A SAR Dataset of Ship Detection for Deep Learning under Complex Backgrounds\". (Remote Sensing, 2019)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-25T13:15:06Z",
+            "owner": "CAESAR-Radi",
+            "repo": "SAR-Ship-Dataset",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HRSID",
+          "description": "\"HRSID: A High-Resolution SAR Images Dataset for Ship Detection and Instance Segmentation\". (IEEE Access 2020)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-03T05:52:33Z",
+            "owner": "chaozhong2010",
+            "repo": "HRSID",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official-SSDD",
+          "description": "\"SAR Ship Detection Dataset (SSDD): Official Release and Comprehensive Data Analysis \". (Remote Sensing, 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-21T06:40:58Z",
+            "owner": "TianwenZhang0825",
+            "repo": "Official-SSDD",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "SAR Image Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLVIP",
+          "description": "\"LLVIP: A Visible-Infrared Paired Dataset for Low-Light Vision\". (ICCV 2021)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-08-09T14:08:25Z",
+            "owner": "bupt-ai-cz",
+            "repo": "LLVIP",
+            "stars": 839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroneVehicle",
+          "description": "\"Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning\". (IEEE TCSVT 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-20T06:42:26Z",
+            "owner": "VisDrone",
+            "repo": "DroneVehicle",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KAIST_rgbt",
+          "description": "\"Multispectral Pedestrian Detection: Benchmark Dataset and Baseline\". (CVPR 2015)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-02-02T16:24:51Z",
+            "owner": "SoonminHwang",
+            "repo": "rgbt-ped-detection",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TarDAL",
+          "description": "\"Target-Aware Dual Adversarial Learning and a Multi-Scenario Multi-Modality Benchmark To Fuse Infrared and Visible for Object Detection\". (CVPR 2022). (M3FD Dataset)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-20T07:42:19Z",
+            "owner": "JinyuanLiu-CV",
+            "repo": "TarDAL",
+            "stars": 355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSRS",
+          "description": "MSRS: Multi-Spectral Road Scenarios for Practical Infrared and Visible Image Fusion. \"PIAFusion : A progressive infrared and visible image fusion network based on illumination aware\". (Information Fusion, 2022)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T14:42:11Z",
+            "owner": "Linfeng-Tang",
+            "repo": "MSRS",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MFNet",
+          "description": "MFNet-pytorch, image semantic segmentation using RGB-Thermal images. \"MFNet: Towards real-time semantic segmentation for autonomous vehicles with multi-spectral scenes\". (IROS 2017). (MFNet Dataset : Multi-spectral Object Detection and Semantic Segmentation Datasets)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-20T05:06:12Z",
+            "owner": "haqishen",
+            "repo": "MFNet-pytorch",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Multispectral Image Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCOOD|OPV2V",
+          "description": "OpenCOOD is an Open COOperative Detection framework for autonomous driving. It is also the official implementation of the ICRA 2022 paper OPV2V. \"OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication\". (ICRA, 2022). mobility-lab.seas.ucla.edu/opv2v/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-17T05:45:28Z",
+            "owner": "DerrickXuNu",
+            "repo": "OpenCOOD",
+            "stars": 829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DAIR-V2X",
+          "description": "\"DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection\". (CVPR, 2022). 全球首个车路协同自动驾驶数据集发布",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T02:38:37Z",
+            "owner": "AIR-THU",
+            "repo": "DAIR-V2X",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2X-ViT|V2XSet",
+          "description": "\"V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer\". (ECCV, 2022).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-06T01:45:31Z",
+            "owner": "DerrickXuNu",
+            "repo": "v2x-vit",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PJLab-ADG/LiDARSimLib-and-Placement-Evaluation",
+          "description": "\"Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library\". (ICRA, 2023).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-12T02:39:50Z",
+            "owner": "PJLab-ADG",
+            "repo": "PCSim",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoBEVT",
+          "description": "\"CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers\". (CoRL, 2022).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-18T01:06:04Z",
+            "owner": "DerrickXuNu",
+            "repo": "CoBEVT",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2V4Real",
+          "description": "\"V2V4Real: A Real-World Large-Scale Dataset for Vehicle-to-Vehicle Cooperative Perception\". (CVPR, 2023).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T16:14:27Z",
+            "owner": "ucla-mobility",
+            "repo": "V2V4Real",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Where2comm",
+          "description": "\"Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps\". (Neurips, 2022).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-03T12:24:09Z",
+            "owner": "MediaBrain-SJTU",
+            "repo": "Where2comm",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "V2X-Seq",
+          "description": "\"V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting\". (CVPR, 2023). 全球首个大规模时序车路协同自动驾驶数据集发布",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T02:42:26Z",
+            "owner": "AIR-THU",
+            "repo": "DAIR-V2X-Seq",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoAlign",
+          "description": "\"Robust Collaborative 3D Object Detection in Presence of Pose Errors\". (ICRA, 2023).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T14:30:23Z",
+            "owner": "yifanlu0227",
+            "repo": "CoAlign",
+            "stars": 186
+          }
+        }
+      ],
+      "title": "Vehicle-to-Everything Field Datasets"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:52:42.813Z",
+    "original_repository": "coderonion/awesome-object-detection-datasets",
+    "original_repository_sha": "0d5c6e549fa97dc9f3eb156078ed287c28136edb",
+    "enhanced_repository": "enhansome/enhansome-object-detection-datasets",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Object-Detection-Datasets with stars"
+  }
+}
