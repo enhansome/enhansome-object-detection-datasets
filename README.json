@@ -19,7 +19,7 @@
                 "last_commit": "2026-08-12T07:16:05Z",
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3736
+                "stars": 3737
               }
             },
             {
@@ -33,7 +33,7 @@
                 "last_commit": "2026-04-16T14:44:49Z",
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2299
+                "stars": 2300
               }
             },
             {
@@ -131,7 +131,7 @@
                 "last_commit": "2025-01-07T16:07:01Z",
                 "owner": "coderonion",
                 "repo": "awesome-object-detection-datasets",
-                "stars": 143
+                "stars": 144
               }
             },
             {
@@ -163,10 +163,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T09:57:11Z",
+                "last_commit": "2026-08-16T02:49:57Z",
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
-                "stars": 682
+                "stars": 683
               }
             }
           ]
@@ -192,7 +192,7 @@
                     "last_commit": "2026-08-14T15:21:23Z",
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28062
+                    "stars": 28066
                   }
                 },
                 {
@@ -206,7 +206,7 @@
                     "last_commit": "2024-06-07T20:24:32Z",
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25065
+                    "stars": 25064
                   }
                 },
                 {
@@ -217,10 +217,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Python",
-                    "last_commit": "2026-08-14T16:41:44Z",
+                    "last_commit": "2026-08-15T20:48:19Z",
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16526
+                    "stars": 16528
                   }
                 },
                 {
@@ -234,7 +234,7 @@
                     "last_commit": "2026-08-08T02:53:11Z",
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16101
+                    "stars": 16103
                   }
                 },
                 {
@@ -304,7 +304,7 @@
                     "last_commit": "2022-07-06T19:58:48Z",
                     "owner": "Cartucho",
                     "repo": "OpenLabeling",
-                    "stars": 962
+                    "stars": 963
                   }
                 },
                 {
@@ -746,7 +746,7 @@
             "last_commit": "2023-09-24T06:42:49Z",
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2493
+            "stars": 2497
           }
         },
         {
@@ -1126,7 +1126,7 @@
             "last_commit": "2024-08-14T16:14:27Z",
             "owner": "ucla-mobility",
             "repo": "V2V4Real",
-            "stars": 230
+            "stars": 231
           }
         },
         {
@@ -1154,7 +1154,7 @@
             "last_commit": "2025-02-21T02:42:26Z",
             "owner": "AIR-THU",
             "repo": "DAIR-V2X-Seq",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:57:03.686Z",
+    "last_updated": "2026-08-16T06:58:32.743Z",
     "original_repository": "coderonion/awesome-object-detection-datasets",
     "original_repository_sha": "0d5c6e549fa97dc9f3eb156078ed287c28136edb",
     "enhanced_repository": "enhansome/enhansome-object-detection-datasets",
