@@ -19,7 +19,7 @@
                 "last_commit": "2026-08-12T07:16:05Z",
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3738
+                "stars": 3739
               }
             },
             {
@@ -33,7 +33,7 @@
                 "last_commit": "2026-04-16T14:44:49Z",
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2300
+                "stars": 2301
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-04-05T08:00:29Z",
                 "owner": "ZHOUYI1023",
                 "repo": "awesome-radar-perception",
-                "stars": 1875
+                "stars": 1876
               }
             },
             {
@@ -163,10 +163,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T02:49:57Z",
+                "last_commit": "2026-08-17T13:10:31Z",
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
-                "stars": 683
+                "stars": 684
               }
             }
           ]
@@ -189,10 +189,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-17T00:05:54Z",
+                    "last_commit": "2026-08-18T00:06:11Z",
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28074
+                    "stars": 28081
                   }
                 },
                 {
@@ -217,10 +217,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Python",
-                    "last_commit": "2026-08-16T09:15:04Z",
+                    "last_commit": "2026-08-17T18:45:04Z",
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16537
+                    "stars": 16539
                   }
                 },
                 {
@@ -231,10 +231,10 @@
                   "repo_info": {
                     "archived": false,
                     "language": "Python",
-                    "last_commit": "2026-08-17T04:11:43Z",
+                    "last_commit": "2026-08-18T07:01:37Z",
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16106
+                    "stars": 16110
                   }
                 },
                 {
@@ -248,7 +248,7 @@
                     "last_commit": "2021-12-06T21:10:56Z",
                     "owner": "microsoft",
                     "repo": "VoTT",
-                    "stars": 4429
+                    "stars": 4428
                   }
                 },
                 {
@@ -262,7 +262,7 @@
                     "last_commit": "2026-08-09T05:52:06Z",
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3451
+                    "stars": 3452
                   }
                 },
                 {
@@ -290,7 +290,7 @@
                     "last_commit": "2026-07-28T12:11:08Z",
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1656
+                    "stars": 1657
                   }
                 },
                 {
@@ -318,7 +318,7 @@
                     "last_commit": "2026-07-30T13:59:19Z",
                     "owner": "OvidijusParsiunas",
                     "repo": "myvision",
-                    "stars": 611
+                    "stars": 612
                   }
                 },
                 {
@@ -690,7 +690,7 @@
                 "last_commit": "2024-02-15T22:34:00Z",
                 "owner": "detectRecog",
                 "repo": "CCPD",
-                "stars": 2645
+                "stars": 2646
               }
             }
           ]
@@ -746,7 +746,7 @@
             "last_commit": "2023-09-24T06:42:49Z",
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2498
+            "stars": 2499
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2023-03-03T12:24:09Z",
             "owner": "MediaBrain-SJTU",
             "repo": "Where2comm",
-            "stars": 216
+            "stars": 217
           }
         },
         {
@@ -1176,7 +1176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:16:04.010Z",
+    "last_updated": "2026-08-18T07:04:32.240Z",
     "original_repository": "coderonion/awesome-object-detection-datasets",
     "original_repository_sha": "0d5c6e549fa97dc9f3eb156078ed287c28136edb",
     "enhanced_repository": "enhansome/enhansome-object-detection-datasets",
