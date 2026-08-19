@@ -1,6 +1,6 @@
 # Awesome-Object-Detection-Datasets with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,535 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18
 
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
@@ -79,21 +79,21 @@
 
   * #### Data Annotation
 
-    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,083 | 🐛 925 | 🌐 TypeScript | 📅 2026-08-19 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,085 | 🐛 925 | 🌐 TypeScript | 📅 2026-08-19 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
     * [LabelImg](https://github.com/heartexlabs/labelImg) ⚠️ Archived <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
-    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,543 | 🐛 588 | 🌐 Python | 📅 2026-08-18 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,547 | 🐛 586 | 🌐 Python | 📅 2026-08-19 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
-    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,109 | 🐛 184 | 🌐 Python | 📅 2026-08-19 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,110 | 🐛 184 | 🌐 Python | 📅 2026-08-19 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
     * [VoTT](https://github.com/Microsoft/VoTT) ⚠️ Archived <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 
-    * [AnyLabeling](https://github.com/vietanhdev/anylabeling) ⭐ 3,453 | 🐛 90 | 🌐 Python | 📅 2026-08-09 <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
+    * [AnyLabeling](https://github.com/vietanhdev/anylabeling) ⭐ 3,454 | 🐛 90 | 🌐 Python | 📅 2026-08-09 <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
 
     * [AlexeyAB/Yolo\_mark](https://github.com/AlexeyAB/Yolo_mark) ⭐ 1,840 | 🐛 146 | 🌐 C++ | 📅 2020-12-11 <img src="https://img.shields.io/github/stars/AlexeyAB/Yolo_mark?style=social"/> : GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
 
-    * [opendatalab/labelU](https://github.com/opendatalab/labelU) ⭐ 1,659 | 🐛 31 | 🌐 Python | 📅 2026-07-28 <img src="https://img.shields.io/github/stars/opendatalab/labelU?style=social"/> : Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox.
+    * [opendatalab/labelU](https://github.com/opendatalab/labelU) ⭐ 1,660 | 🐛 31 | 🌐 Python | 📅 2026-07-28 <img src="https://img.shields.io/github/stars/opendatalab/labelU?style=social"/> : Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox.
 
     * [Cartucho/OpenLabeling](https://github.com/Cartucho/OpenLabeling) ⭐ 964 | 🐛 18 | 🌐 Python | 📅 2022-07-06 <img src="https://img.shields.io/github/stars/Cartucho/OpenLabeling?style=social"/> : Label images and video for Computer Vision applications.
 
@@ -299,7 +299,7 @@
 
 * [MSRS](https://github.com/Linfeng-Tang/MSRS) ⭐ 274 | 🐛 11 | 🌐 Python | 📅 2026-06-10 <img src="https://img.shields.io/github/stars/Linfeng-Tang/MSRS?style=social"/> : MSRS: Multi-Spectral Road Scenarios for Practical Infrared and Visible Image Fusion. "[PIAFusion](https://github.com/Linfeng-Tang/PIAFusion) ⭐ 130 | 🐛 7 | 🌐 Python | 📅 2026-07-19 <img src="https://img.shields.io/github/stars/Linfeng-Tang/PIAFusion?style=social"/>: A progressive infrared and visible image fusion network based on illumination aware". (**[Information Fusion, 2022](https://www.sciencedirect.com/science/article/abs/pii/S156625352200032X)**)
 
-* [MFNet](https://github.com/haqishen/MFNet-pytorch) ⭐ 150 | 🐛 8 | 🌐 Python | 📅 2019-12-20 <img src="https://img.shields.io/github/stars/haqishen/MFNet-pytorch?style=social"/> : MFNet-pytorch, image semantic segmentation using RGB-Thermal images. "MFNet: Towards real-time semantic segmentation for autonomous vehicles with multi-spectral scenes". (**[IROS 2017](https://ieeexplore.ieee.org/abstract/document/8206396/)**). ([MFNet Dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) : Multi-spectral Object Detection and Semantic Segmentation Datasets)
+* [MFNet](https://github.com/haqishen/MFNet-pytorch) ⭐ 152 | 🐛 8 | 🌐 Python | 📅 2019-12-20 <img src="https://img.shields.io/github/stars/haqishen/MFNet-pytorch?style=social"/> : MFNet-pytorch, image semantic segmentation using RGB-Thermal images. "MFNet: Towards real-time semantic segmentation for autonomous vehicles with multi-spectral scenes". (**[IROS 2017](https://ieeexplore.ieee.org/abstract/document/8206396/)**). ([MFNet Dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) : Multi-spectral Object Detection and Semantic Segmentation Datasets)
 
 * [FLIR\_ADAS](https://adas-dataset-v2.flirconservator.com/) : Teledyne FLIR Free ADAS Thermal Dataset v2.
 
