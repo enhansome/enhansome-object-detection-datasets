@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,11 +15,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 573313337,
                 "language": null,
                 "last_commit": "2026-08-12T07:16:05Z",
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3739
+                "stars": 3741
               }
             },
             {
@@ -29,11 +30,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 155948788,
                 "language": null,
                 "last_commit": "2026-04-16T14:44:49Z",
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2301
+                "stars": 2302
               }
             },
             {
@@ -43,11 +45,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 360790430,
                 "language": null,
                 "last_commit": "2025-04-05T08:00:29Z",
                 "owner": "ZHOUYI1023",
                 "repo": "awesome-radar-perception",
-                "stars": 1876
+                "stars": 1877
               }
             },
             {
@@ -57,11 +60,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 219897924,
                 "language": null,
                 "last_commit": "2025-05-22T03:27:29Z",
                 "owner": "xahidbuffon",
                 "repo": "Awesome_Underwater_Datasets",
-                "stars": 706
+                "stars": 707
               }
             },
             {
@@ -71,11 +75,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 464710584,
                 "language": null,
                 "last_commit": "2025-09-17T02:50:43Z",
                 "owner": "vvincenttttt",
                 "repo": "Awesome-3D-Object-Detection",
-                "stars": 692
+                "stars": 693
               }
             },
             {
@@ -85,11 +90,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163572209,
                 "language": null,
                 "last_commit": "2026-07-24T14:54:18Z",
                 "owner": "lartpang",
                 "repo": "awesome-segmentation-saliency-dataset",
-                "stars": 638
+                "stars": 639
               }
             },
             {
@@ -99,6 +105,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 296853500,
                 "language": "Python",
                 "last_commit": "2021-10-21T06:21:55Z",
                 "owner": "DLLXW",
@@ -113,6 +120,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 314350756,
                 "language": "Jupyter Notebook",
                 "last_commit": "2022-01-05T12:18:10Z",
                 "owner": "ari-dasci",
@@ -127,6 +135,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 521807769,
                 "language": null,
                 "last_commit": "2025-01-07T16:07:01Z",
                 "owner": "coderonion",
@@ -141,6 +150,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 319903483,
                 "language": null,
                 "last_commit": "2020-12-09T13:32:19Z",
                 "owner": "z014xw",
@@ -162,8 +172,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 292016444,
                 "language": "Python",
-                "last_commit": "2026-08-17T13:10:31Z",
+                "last_commit": "2026-08-19T05:45:15Z",
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
                 "stars": 684
@@ -188,11 +199,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 192640529,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-18T00:06:11Z",
+                    "last_commit": "2026-08-19T06:09:16Z",
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28081
+                    "stars": 28083
                   }
                 },
                 {
@@ -202,11 +214,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 42625970,
                     "language": "Python",
                     "last_commit": "2024-06-07T20:24:32Z",
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25061
+                    "stars": 25060
                   }
                 },
                 {
@@ -216,11 +229,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 139156354,
                     "language": "Python",
-                    "last_commit": "2026-08-17T18:45:04Z",
+                    "last_commit": "2026-08-18T19:28:08Z",
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16539
+                    "stars": 16543
                   }
                 },
                 {
@@ -230,11 +244,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 58374888,
                     "language": "Python",
-                    "last_commit": "2026-08-18T07:01:37Z",
+                    "last_commit": "2026-08-19T00:32:09Z",
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16110
+                    "stars": 16109
                   }
                 },
                 {
@@ -244,6 +259,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 77614310,
                     "language": "TypeScript",
                     "last_commit": "2021-12-06T21:10:56Z",
                     "owner": "microsoft",
@@ -258,11 +274,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 625321570,
                     "language": "Python",
                     "last_commit": "2026-08-09T05:52:06Z",
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3452
+                    "stars": 3453
                   }
                 },
                 {
@@ -272,6 +289,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 76747577,
                     "language": "C++",
                     "last_commit": "2020-12-11T00:29:20Z",
                     "owner": "AlexeyAB",
@@ -286,11 +304,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 554107151,
                     "language": "Python",
                     "last_commit": "2026-07-28T12:11:08Z",
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1657
+                    "stars": 1659
                   }
                 },
                 {
@@ -300,11 +319,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 118135147,
                     "language": "Python",
                     "last_commit": "2022-07-06T19:58:48Z",
                     "owner": "Cartucho",
                     "repo": "OpenLabeling",
-                    "stars": 963
+                    "stars": 964
                   }
                 },
                 {
@@ -314,6 +334,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 169884869,
                     "language": "JavaScript",
                     "last_commit": "2026-07-30T13:59:19Z",
                     "owner": "OvidijusParsiunas",
@@ -328,6 +349,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 86496548,
                     "language": "Jupyter Notebook",
                     "last_commit": "2026-06-10T14:06:39Z",
                     "owner": "ryouchinsa",
@@ -342,6 +364,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 394533498,
                     "language": "Python",
                     "last_commit": "2023-06-22T13:05:54Z",
                     "owner": "cnyvfang",
@@ -356,6 +379,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 307083094,
                     "language": null,
                     "last_commit": "2021-09-04T10:02:35Z",
                     "owner": "darkpgmr",
@@ -370,6 +394,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 419178479,
                     "language": "Python",
                     "last_commit": "2024-08-14T06:24:17Z",
                     "owner": "pylabel-project",
@@ -384,6 +409,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 320168821,
                     "language": "Python",
                     "last_commit": "2023-02-26T06:45:37Z",
                     "owner": "wufan-tb",
@@ -398,6 +424,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 335095302,
                     "language": "C++",
                     "last_commit": "2026-01-31T08:08:26Z",
                     "owner": "stephanecharette",
@@ -412,6 +439,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 323027740,
                     "language": "Python",
                     "last_commit": "2021-01-18T08:32:22Z",
                     "owner": "CVUsers",
@@ -426,6 +454,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 457221393,
                     "language": "Python",
                     "last_commit": "2023-04-24T09:21:00Z",
                     "owner": "WangRongsheng",
@@ -440,6 +469,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 124826307,
                     "language": "C#",
                     "last_commit": "2018-06-20T07:28:25Z",
                     "owner": "sanfooh",
@@ -454,6 +484,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 188447433,
                     "language": "C#",
                     "last_commit": "2021-01-29T20:30:23Z",
                     "owner": "AlturosDestinations",
@@ -468,6 +499,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 196630371,
                     "language": "C++",
                     "last_commit": "2026-04-12T18:23:47Z",
                     "owner": "2vin",
@@ -482,6 +514,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 507146501,
                     "language": "Python",
                     "last_commit": "2023-08-23T22:43:19Z",
                     "owner": "2vin",
@@ -496,6 +529,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 130778488,
                     "language": "C#",
                     "last_commit": "2018-05-06T22:29:22Z",
                     "owner": "MrZander",
@@ -510,6 +544,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 313325232,
                     "language": "Python",
                     "last_commit": "2026-03-21T21:30:06Z",
                     "owner": "AISP-PL",
@@ -524,6 +559,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 487167147,
                     "language": null,
                     "last_commit": "2022-05-03T12:32:07Z",
                     "owner": "LILINOpenGitHub",
@@ -538,6 +574,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 470596042,
                     "language": "Python",
                     "last_commit": "2022-04-03T20:31:19Z",
                     "owner": "MNConnor",
@@ -552,6 +589,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 165223413,
                     "language": "C",
                     "last_commit": "2020-05-29T05:57:52Z",
                     "owner": "mahxn0",
@@ -566,6 +604,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 492126234,
                     "language": "Python",
                     "last_commit": "2022-09-28T16:18:30Z",
                     "owner": "whs0523003",
@@ -587,11 +626,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 136265021,
                     "language": "Python",
                     "last_commit": "2025-06-25T23:21:43Z",
                     "owner": "albumentations-team",
                     "repo": "albumentations",
-                    "stars": 15315
+                    "stars": 15314
                   }
                 },
                 {
@@ -601,6 +641,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 283253402,
                     "language": "Python",
                     "last_commit": "2023-04-14T03:50:12Z",
                     "owner": "doubleZ0108",
@@ -622,6 +663,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 665015643,
                     "language": "Python",
                     "last_commit": "2026-08-03T16:42:29Z",
                     "owner": "lancedb",
@@ -637,7 +679,7 @@
       "title": "Summary"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -651,6 +693,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 104307608,
                 "language": null,
                 "last_commit": "2024-07-12T10:47:57Z",
                 "owner": "csust7zhangjm",
@@ -665,6 +708,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 405834713,
                 "language": null,
                 "last_commit": "2026-07-25T11:04:51Z",
                 "owner": "csust7zhangjm",
@@ -686,6 +730,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 127838474,
                 "language": "Python",
                 "last_commit": "2024-02-15T22:34:00Z",
                 "owner": "detectRecog",
@@ -699,7 +744,7 @@
       "title": "Autonomous Driving Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -708,6 +753,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229442852,
             "language": "Python",
             "last_commit": "2025-06-12T07:10:04Z",
             "owner": "ucas-vg",
@@ -722,6 +768,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229442852,
             "language": "Python",
             "last_commit": "2025-06-12T07:10:04Z",
             "owner": "ucas-vg",
@@ -733,7 +780,7 @@
       "title": "Person Detection Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -742,11 +789,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 204825495,
             "language": null,
             "last_commit": "2023-09-24T06:42:49Z",
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2499
+            "stars": 2501
           }
         },
         {
@@ -756,6 +804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303620675,
             "language": "Python",
             "last_commit": "2024-11-13T20:00:00Z",
             "owner": "jwwangchn",
@@ -770,6 +819,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88589156,
             "language": null,
             "last_commit": "2019-04-30T08:04:48Z",
             "owner": "RSIA-LIESMARS-WHU",
@@ -784,6 +834,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292311254,
             "language": null,
             "last_commit": "2021-12-22T06:47:19Z",
             "owner": "QingyongHu",
@@ -798,6 +849,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462380660,
             "language": "Python",
             "last_commit": "2022-10-28T15:44:35Z",
             "owner": "ChaoXiao12",
@@ -812,6 +864,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 498262041,
             "language": "Jupyter Notebook",
             "last_commit": "2023-12-13T23:56:24Z",
             "owner": "Ben93kie",
@@ -826,6 +879,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68058276,
             "language": "Python",
             "last_commit": "2021-01-29T23:14:13Z",
             "owner": "llnl",
@@ -840,6 +894,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 501720991,
             "language": "Python",
             "last_commit": "2023-07-15T16:00:49Z",
             "owner": "WindVChen",
@@ -854,6 +909,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349148162,
             "language": "C++",
             "last_commit": "2023-01-10T09:24:06Z",
             "owner": "mribrahim",
@@ -865,7 +921,7 @@
       "title": "Optical Aerial Imagery Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -874,6 +930,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368468407,
             "language": "Python",
             "last_commit": "2024-10-06T14:11:33Z",
             "owner": "YeRen123455",
@@ -888,24 +945,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270870390,
             "language": null,
             "last_commit": "2023-09-08T20:52:50Z",
             "owner": "YimianDai",
             "repo": "sirst",
             "stars": 262
           }
-        },
-        {
-          "node_type": "item",
-          "title": "SCUT_FIR_Pedestrian_Dataset",
-          "description": "\"Benchmarking a large-scale FIR dataset for on-road pedestrian detection\". (Infrared Physics & Technology, 2019)",
-          "children": []
         }
       ],
       "title": "Infrared Image Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -914,6 +966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173522239,
             "language": null,
             "last_commit": "2024-12-25T13:15:06Z",
             "owner": "CAESAR-Radi",
@@ -928,6 +981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223717848,
             "language": null,
             "last_commit": "2020-07-03T05:52:33Z",
             "owner": "chaozhong2010",
@@ -942,6 +996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400080774,
             "language": null,
             "last_commit": "2025-11-21T06:40:58Z",
             "owner": "TianwenZhang0825",
@@ -953,7 +1008,7 @@
       "title": "SAR Image Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -962,6 +1017,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 377085976,
             "language": "Jupyter Notebook",
             "last_commit": "2025-08-09T14:08:25Z",
             "owner": "bupt-ai-cz",
@@ -976,6 +1032,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245044506,
             "language": null,
             "last_commit": "2022-08-20T06:42:26Z",
             "owner": "VisDrone",
@@ -990,11 +1047,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104076378,
             "language": "MATLAB",
             "last_commit": "2026-02-02T16:24:51Z",
             "owner": "SoonminHwang",
             "repo": "rgbt-ped-detection",
-            "stars": 390
+            "stars": 391
           }
         },
         {
@@ -1004,6 +1062,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 467372077,
             "language": "Python",
             "last_commit": "2024-08-20T07:42:19Z",
             "owner": "JinyuanLiu-CV",
@@ -1018,6 +1077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476930454,
             "language": "Python",
             "last_commit": "2026-06-10T14:42:11Z",
             "owner": "Linfeng-Tang",
@@ -1032,6 +1092,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136737365,
             "language": "Python",
             "last_commit": "2019-12-20T05:06:12Z",
             "owner": "haqishen",
@@ -1043,7 +1104,7 @@
       "title": "Multispectral Image Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1052,6 +1113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 456345512,
             "language": "Python",
             "last_commit": "2024-08-17T05:45:28Z",
             "owner": "DerrickXuNu",
@@ -1066,6 +1128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471869423,
             "language": "Python",
             "last_commit": "2025-02-21T02:38:37Z",
             "owner": "AIR-THU",
@@ -1080,6 +1143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510451246,
             "language": "Python",
             "last_commit": "2024-09-06T01:45:31Z",
             "owner": "DerrickXuNu",
@@ -1094,6 +1158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537289862,
             "language": "Python",
             "last_commit": "2025-06-12T02:39:50Z",
             "owner": "PJLab-ADG",
@@ -1108,6 +1173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535122822,
             "language": "Python",
             "last_commit": "2024-08-18T01:06:04Z",
             "owner": "DerrickXuNu",
@@ -1122,6 +1188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609351183,
             "language": "Python",
             "last_commit": "2024-08-14T16:14:27Z",
             "owner": "ucla-mobility",
@@ -1136,6 +1203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 539304653,
             "language": "Python",
             "last_commit": "2023-03-03T12:24:09Z",
             "owner": "MediaBrain-SJTU",
@@ -1150,6 +1218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 617012827,
             "language": "Python",
             "last_commit": "2025-02-21T02:42:26Z",
             "owner": "AIR-THU",
@@ -1164,6 +1233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 534546204,
             "language": "Python",
             "last_commit": "2024-07-23T14:30:23Z",
             "owner": "yifanlu0227",
@@ -1176,7 +1246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:04:32.240Z",
+    "last_updated": "2026-08-19T07:05:03.592Z",
     "original_repository": "coderonion/awesome-object-detection-datasets",
     "original_repository_sha": "0d5c6e549fa97dc9f3eb156078ed287c28136edb",
     "enhanced_repository": "enhansome/enhansome-object-detection-datasets",
