@@ -35,7 +35,7 @@
                 "last_commit": "2026-04-16T14:44:49Z",
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2306
+                "stars": 2308
               }
             },
             {
@@ -201,10 +201,10 @@
                     "archived": false,
                     "id": 192640529,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T06:13:58Z",
+                    "last_commit": "2026-08-24T14:21:00Z",
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28117
+                    "stars": 28122
                   }
                 },
                 {
@@ -231,10 +231,10 @@
                     "archived": false,
                     "id": 139156354,
                     "language": "Python",
-                    "last_commit": "2026-08-24T06:49:32Z",
+                    "last_commit": "2026-08-24T14:34:43Z",
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16583
+                    "stars": 16586
                   }
                 },
                 {
@@ -246,10 +246,10 @@
                     "archived": false,
                     "id": 58374888,
                     "language": "Python",
-                    "last_commit": "2026-08-23T01:24:11Z",
+                    "last_commit": "2026-08-24T13:58:26Z",
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16123
+                    "stars": 16124
                   }
                 },
                 {
@@ -713,7 +713,7 @@
                 "last_commit": "2026-07-25T11:04:51Z",
                 "owner": "csust7zhangjm",
                 "repo": "CCTSDB2021",
-                "stars": 101
+                "stars": 102
               }
             }
           ]
@@ -1246,7 +1246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:20:07.113Z",
+    "last_updated": "2026-08-24T14:37:13.860Z",
     "original_repository": "coderonion/awesome-object-detection-datasets",
     "original_repository_id": 521807769,
     "original_repository_sha": "0d5c6e549fa97dc9f3eb156078ed287c28136edb",

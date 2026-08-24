@@ -1,6 +1,6 @@
 # Awesome-Object-Detection-Datasets with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,383 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21
 
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
@@ -43,7 +43,7 @@
 
   * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,745 | 🐛 1 | 📅 2026-08-21 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
 
-  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,306 | 🐛 2 | 📅 2026-04-16 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
+  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,308 | 🐛 2 | 📅 2026-04-16 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
 
   * [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) ⭐ 1,878 | 🐛 9 | 📅 2025-04-05 <img src="https://img.shields.io/github/stars/ZHOUYI1023/awesome-radar-perception?style=social"/> : A curated list of radar datasets, detection, tracking and fusion.
 
@@ -79,13 +79,13 @@
 
   * #### Data Annotation
 
-    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,117 | 🐛 925 | 🌐 TypeScript | 📅 2026-08-24 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,122 | 🐛 926 | 🌐 TypeScript | 📅 2026-08-24 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
     * [LabelImg](https://github.com/heartexlabs/labelImg) ⚠️ Archived <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
-    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,583 | 🐛 589 | 🌐 Python | 📅 2026-08-24 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,586 | 🐛 591 | 🌐 Python | 📅 2026-08-24 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
-    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,123 | 🐛 183 | 🌐 Python | 📅 2026-08-23 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,124 | 🐛 182 | 🌐 Python | 📅 2026-08-24 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
     * [VoTT](https://github.com/Microsoft/VoTT) ⚠️ Archived <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 
@@ -173,7 +173,7 @@
 
   * [CCTSDB](https://github.com/csust7zhangjm/CCTSDB) ⭐ 268 | 🐛 16 | 📅 2024-07-12 <img src="https://img.shields.io/github/stars/csust7zhangjm/CCTSDB?style=social"/> : CSUST Chinese Traffic Sign Detection Benchmark 中国交通数据集由长沙理工大学综合交通运输大数据智能处理湖南省重点实验室张建明老师团队制作完成。 "A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2". (**[Algorithms, 2017](https://www.mdpi.com/1999-4893/10/4/127)**)
 
-  * [CCTSDB2021](https://github.com/csust7zhangjm/CCTSDB2021) ⭐ 101 | 🐛 5 | 📅 2026-07-25 <img src="https://img.shields.io/github/stars/csust7zhangjm/CCTSDB2021?style=social"/> : "CCTSDB 2021: a more comprehensive traffic sign detection benchmark". (**[Human-centric Computing and Information Sciences, 2022](https://centaur.reading.ac.uk/106129/)**)
+  * [CCTSDB2021](https://github.com/csust7zhangjm/CCTSDB2021) ⭐ 102 | 🐛 5 | 📅 2026-07-25 <img src="https://img.shields.io/github/stars/csust7zhangjm/CCTSDB2021?style=social"/> : "CCTSDB 2021: a more comprehensive traffic sign detection benchmark". (**[Human-centric Computing and Information Sciences, 2022](https://centaur.reading.ac.uk/106129/)**)
 
   * [TT100K](http://cg.cs.tsinghua.edu.cn/traffic-sign/) : "Traffic-Sign Detection and Classification in the Wild". (**[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.html)**)
 
