@@ -1,6 +1,6 @@
 # Awesome-Object-Detection-Datasets with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,707 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,711 | 🐛 106 | 📅 2026-08-21
 
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
