@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-21T07:55:15Z",
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3748
+                "stars": 3749
               }
             },
             {
@@ -174,7 +174,7 @@
                 "archived": false,
                 "id": 292016444,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:20:10Z",
+                "last_commit": "2026-08-27T12:09:15Z",
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
                 "stars": 687
@@ -201,10 +201,10 @@
                     "archived": false,
                     "id": 192640529,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T08:31:50Z",
+                    "last_commit": "2026-08-27T12:55:03Z",
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28157
+                    "stars": 28158
                   }
                 },
                 {
@@ -231,10 +231,10 @@
                     "archived": false,
                     "id": 139156354,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:30:29Z",
+                    "last_commit": "2026-08-27T14:12:34Z",
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16606
+                    "stars": 16607
                   }
                 },
                 {
@@ -246,7 +246,7 @@
                     "archived": false,
                     "id": 58374888,
                     "language": "Python",
-                    "last_commit": "2026-08-25T09:32:26Z",
+                    "last_commit": "2026-08-27T13:18:57Z",
                     "owner": "wkentaro",
                     "repo": "labelme",
                     "stars": 16131
@@ -279,7 +279,7 @@
                     "last_commit": "2026-08-09T05:52:06Z",
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3463
+                    "stars": 3464
                   }
                 },
                 {
@@ -1246,7 +1246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:08.246Z",
+    "last_updated": "2026-08-27T17:37:43.151Z",
     "original_repository_info": {
       "archived": false,
       "id": 521807769,
