@@ -1,6 +1,6 @@
 # Awesome-Object-Detection-Datasets with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,548 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,858 | 🐛 106 | 📅 2026-09-02
 
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
@@ -41,9 +41,9 @@
 
 * ### Awesome List
 
-  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,757 | 🐛 1 | 📅 2026-08-28 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
+  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,759 | 🐛 1 | 📅 2026-08-28 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
 
-  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,316 | 🐛 2 | 📅 2026-04-16 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
+  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,317 | 🐛 2 | 📅 2026-04-16 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
 
   * [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) ⭐ 1,880 | 🐛 8 | 📅 2025-04-05 <img src="https://img.shields.io/github/stars/ZHOUYI1023/awesome-radar-perception?style=social"/> : A curated list of radar datasets, detection, tracking and fusion.
 
@@ -51,7 +51,7 @@
 
   * [TianhaoFu/Awesome-3D-Object-Detection](https://github.com/TianhaoFu/Awesome-3D-Object-Detection) ⭐ 692 | 🐛 2 | 📅 2025-09-17 <img src="https://img.shields.io/github/stars/TianhaoFu/Awesome-3D-Object-Detection?style=social"/> : Papers, code and datasets about deep learning for 3D Object Detection.
 
-  * [lartpang/awesome-segmentation-saliency-dataset](https://github.com/lartpang/awesome-segmentation-saliency-dataset) ⭐ 640 | 🐛 2 | 📅 2026-08-23 <img src="https://img.shields.io/github/stars/lartpang/awesome-segmentation-saliency-dataset?style=social"/> : A collection of some datasets for segmentation / saliency detection. Welcome to PR...😄
+  * [lartpang/awesome-segmentation-saliency-dataset](https://github.com/lartpang/awesome-segmentation-saliency-dataset) ⭐ 640 | 🐛 2 | 📅 2026-09-04 <img src="https://img.shields.io/github/stars/lartpang/awesome-segmentation-saliency-dataset?style=social"/> : A collection of some datasets for segmentation / saliency detection. Welcome to PR...😄
 
   * [DLLXW/objectDetectionDatasets](https://github.com/DLLXW/objectDetectionDatasets) ⭐ 476 | 🐛 3 | 🌐 Python | 📅 2021-10-21 <img src="https://img.shields.io/github/stars/DLLXW/objectDetectionDatasets?style=social"/> : 目标检测数据集制作:VOC,COCO,YOLO等常用数据集格式的制作和互相转换脚本。
 
@@ -79,13 +79,13 @@
 
   * #### Data Annotation
 
-    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,195 | 🐛 934 | 🌐 TypeScript | 📅 2026-09-03 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,203 | 🐛 936 | 🌐 TypeScript | 📅 2026-09-04 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
     * [LabelImg](https://github.com/heartexlabs/labelImg) ⚠️ Archived <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
-    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,639 | 🐛 597 | 🌐 Python | 📅 2026-09-03 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,644 | 🐛 598 | 🌐 Python | 📅 2026-09-04 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
-    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,141 | 🐛 171 | 🌐 Python | 📅 2026-09-03 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,146 | 🐛 171 | 🌐 Python | 📅 2026-09-03 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
     * [VoTT](https://github.com/Microsoft/VoTT) ⚠️ Archived <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 
@@ -179,7 +179,7 @@
 
 * ### License Plate Detection and Recognition Datasets
 
-  * [CCPD](https://github.com/detectRecog/CCPD) ⭐ 2,651 | 🐛 93 | 🌐 Python | 📅 2024-02-15 <img src="https://img.shields.io/github/stars/csust7zhangjm/CCTSDB2021?style=social"/> : "Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline". (**[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/html/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.html)**)
+  * [CCPD](https://github.com/detectRecog/CCPD) ⭐ 2,652 | 🐛 93 | 🌐 Python | 📅 2024-02-15 <img src="https://img.shields.io/github/stars/csust7zhangjm/CCTSDB2021?style=social"/> : "Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline". (**[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/html/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.html)**)
 
 ## Adverse Weather Datasets
 
@@ -187,9 +187,9 @@
 
 ## Person Detection Datasets
 
-* [TinyPerson](https://github.com/ucas-vg/PointTinyBenchmark) ⭐ 693 | 🐛 35 | 🌐 Python | 📅 2025-06-12 <img src="https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark?style=social"/> : "Scale Match for Tiny Person Detection". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Yu_Scale_Match_for_Tiny_Person_Detection_WACV_2020_paper.html)**)
+* [TinyPerson](https://github.com/ucas-vg/PointTinyBenchmark) ⭐ 694 | 🐛 35 | 🌐 Python | 📅 2025-06-12 <img src="https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark?style=social"/> : "Scale Match for Tiny Person Detection". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Yu_Scale_Match_for_Tiny_Person_Detection_WACV_2020_paper.html)**)
 
-* [TinyPerson v2 | SeaPerson](https://github.com/ucas-vg/PointTinyBenchmark) ⭐ 693 | 🐛 35 | 🌐 Python | 📅 2025-06-12 <img src="https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark?style=social"/> : "Object Localization Under Single Coarse Point Supervision". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Object_Localization_Under_Single_Coarse_Point_Supervision_CVPR_2022_paper.html)**)
+* [TinyPerson v2 | SeaPerson](https://github.com/ucas-vg/PointTinyBenchmark) ⭐ 694 | 🐛 35 | 🌐 Python | 📅 2025-06-12 <img src="https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark?style=social"/> : "Object Localization Under Single Coarse Point Supervision". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Object_Localization_Under_Single_Coarse_Point_Supervision_CVPR_2022_paper.html)**)
 
 * [INRIA Person](http://lear.inrialpes.fr/data) : "Histograms of oriented gradients for human detection". (**[CVPR 2005](https://ieeexplore.ieee.org/abstract/document/1467360)**)
 
@@ -203,7 +203,7 @@
 
 ## Optical Aerial Imagery Datasets
 
-* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,528 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
+* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,530 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
 
 * [AI-TOD](https://github.com/jwwangchn/AI-TOD) ⭐ 273 | 🐛 31 | 🌐 Python | 📅 2024-11-13 <img src="https://img.shields.io/github/stars/jwwangchn/AI-TOD?style=social"/> : "Tiny Object Detection in Aerial Images". (**[IEEE ICPR 2021](https://ieeexplore.ieee.org/abstract/document/9413340)**)
 
@@ -247,7 +247,7 @@
 
 ## Infrared Image Datasets
 
-* [NUDT-SIRST](https://github.com/YeRen123455/Infrared-Small-Target-Detection) ⭐ 535 | 🐛 26 | 🌐 Python | 📅 2024-10-06 <img src="https://img.shields.io/github/stars/YeRen123455/Infrared-Small-Target-Detection?style=social"/> : "Dense Nested Attention Network for Infrared Small Target Detection". (**[arXiv 2021](https://arxiv.org/abs/2106.00487)**)
+* [NUDT-SIRST](https://github.com/YeRen123455/Infrared-Small-Target-Detection) ⭐ 536 | 🐛 26 | 🌐 Python | 📅 2024-10-06 <img src="https://img.shields.io/github/stars/YeRen123455/Infrared-Small-Target-Detection?style=social"/> : "Dense Nested Attention Network for Infrared Small Target Detection". (**[arXiv 2021](https://arxiv.org/abs/2106.00487)**)
 
 * [SIRST](https://github.com/YimianDai/sirst) ⭐ 266 | 🐛 4 | 📅 2023-09-08 <img src="https://img.shields.io/github/stars/YimianDai/sirst?style=social"/> : "Asymmetric Contextual Modulation for Infrared Small Target Detection". (**[WACV 2021](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html)**)
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
