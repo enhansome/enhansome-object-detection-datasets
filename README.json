@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-11T09:46:07Z",
-                    "open_issues": 942,
+                    "last_commit": "2026-09-11T23:04:19Z",
+                    "open_issues": 943,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28248,
+                    "stars": 28252,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T10:35:47Z",
+                    "last_commit": "2026-09-12T07:30:51Z",
                     "open_issues": 593,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16679,
+                    "stars": 16690,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -494,7 +494,7 @@
                     "open_issues": 168,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16163,
+                    "stars": 16164,
                     "topics": [
                       "annotations",
                       "classification",
@@ -525,7 +525,7 @@
                     "open_issues": 246,
                     "owner": "microsoft",
                     "repo": "VoTT",
-                    "stars": 4428,
+                    "stars": 4429,
                     "topics": [
                       "annotation-tool",
                       "cntk",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2542,
+            "stars": 2547,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:20:13.858Z",
+    "last_updated": "2026-09-12T10:45:13.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
