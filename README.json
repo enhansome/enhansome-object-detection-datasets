@@ -24,7 +24,7 @@
                 "open_issues": 1,
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3775,
+                "stars": 3782,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -257,7 +257,7 @@
                 "open_issues": 0,
                 "owner": "coderonion",
                 "repo": "awesome-object-detection-datasets",
-                "stars": 145,
+                "stars": 144,
                 "topics": [
                   "aerial-imagery",
                   "autonomous-driving",
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T11:11:06Z",
-                    "open_issues": 944,
+                    "last_commit": "2026-09-16T08:44:31Z",
+                    "open_issues": 945,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28269,
+                    "stars": 28276,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T11:40:26Z",
-                    "open_issues": 588,
+                    "last_commit": "2026-09-16T11:23:59Z",
+                    "open_issues": 587,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16719,
+                    "stars": 16724,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-15T10:19:18Z",
-                    "open_issues": 164,
+                    "last_commit": "2026-09-16T11:17:01Z",
+                    "open_issues": 168,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16171,
+                    "stars": 16170,
                     "topics": [
                       "annotations",
                       "classification",
@@ -561,7 +561,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3473,
+                    "stars": 3478,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -676,7 +676,7 @@
                     "open_issues": 6,
                     "owner": "OvidijusParsiunas",
                     "repo": "myvision",
-                    "stars": 610,
+                    "stars": 609,
                     "topics": [
                       "ai",
                       "annotation",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2552,
+            "stars": 2556,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1767,7 +1767,7 @@
             "open_issues": 5,
             "owner": "chaozhong2010",
             "repo": "HRSID",
-            "stars": 302,
+            "stars": 303,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1969,7 +1969,7 @@
             "open_issues": 37,
             "owner": "DerrickXuNu",
             "repo": "OpenCOOD",
-            "stars": 831,
+            "stars": 830,
             "topics": [
               "autonomous-driving",
               "collaborative-perception",
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T11:43:26.827Z",
+    "last_updated": "2026-09-16T11:32:19.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
@@ -2205,7 +2205,7 @@
       "open_issues": 0,
       "owner": "coderonion",
       "repo": "awesome-object-detection-datasets",
-      "stars": 145,
+      "stars": 144,
       "topics": [
         "aerial-imagery",
         "autonomous-driving",
