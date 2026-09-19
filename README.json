@@ -24,7 +24,7 @@
                 "open_issues": 1,
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3788,
+                "stars": 3789,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2333,
+                "stars": 2335,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -215,7 +215,7 @@
                 "open_issues": 3,
                 "owner": "DLLXW",
                 "repo": "objectDetectionDatasets",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:39.379Z"
@@ -236,7 +236,7 @@
                 "open_issues": 2,
                 "owner": "ari-dasci",
                 "repo": "OD-WeaponDetection",
-                "stars": 246,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:39.379Z"
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T00:12:05Z",
-                    "open_issues": 947,
+                    "last_commit": "2026-09-19T01:48:24Z",
+                    "open_issues": 950,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28292,
+                    "stars": 28297,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25054,
+                    "stars": 25055,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T11:02:21Z",
-                    "open_issues": 589,
+                    "last_commit": "2026-09-19T05:47:30Z",
+                    "open_issues": 590,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16746,
+                    "stars": 16751,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -561,7 +561,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3480,
+                    "stars": 3482,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -1218,7 +1218,7 @@
                     "open_issues": 0,
                     "owner": "albumentations-team",
                     "repo": "albumentations",
-                    "stars": 15309,
+                    "stars": 15308,
                     "topics": [
                       "augmentation",
                       "deep-learning",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2558,
+            "stars": 2560,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:13:17.322Z",
+    "last_updated": "2026-09-19T10:57:50.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
