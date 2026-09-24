@@ -1,6 +1,6 @@
 # Awesome-Object-Detection-Datasets with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,204 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,670 | 🐛 106 | 📅 2026-09-02
 
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
@@ -41,9 +41,9 @@
 
 * ### Awesome List
 
-  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,794 | 🐛 1 | 📅 2026-09-20 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
+  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,795 | 🐛 1 | 📅 2026-09-20 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
 
-  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,342 | 🐛 2 | 📅 2026-09-09 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
+  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,343 | 🐛 2 | 📅 2026-09-09 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
 
   * [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) ⭐ 1,885 | 🐛 8 | 📅 2025-04-05 <img src="https://img.shields.io/github/stars/ZHOUYI1023/awesome-radar-perception?style=social"/> : A curated list of radar datasets, detection, tracking and fusion.
 
@@ -55,7 +55,7 @@
 
   * [DLLXW/objectDetectionDatasets](https://github.com/DLLXW/objectDetectionDatasets) ⭐ 478 | 🐛 3 | 🌐 Python | 📅 2021-10-21 <img src="https://img.shields.io/github/stars/DLLXW/objectDetectionDatasets?style=social"/> : 目标检测数据集制作:VOC,COCO,YOLO等常用数据集格式的制作和互相转换脚本。
 
-  * [ari-dasci/OD-WeaponDetection](https://github.com/ari-dasci/OD-WeaponDetection) ⭐ 247 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-01-05 <img src="https://img.shields.io/github/stars/ari-dasci/OD-WeaponDetection?style=social"/> : Datasets for weapon detection based on image classification and object detection tasks.
+  * [ari-dasci/OD-WeaponDetection](https://github.com/ari-dasci/OD-WeaponDetection) ⭐ 248 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-01-05 <img src="https://img.shields.io/github/stars/ari-dasci/OD-WeaponDetection?style=social"/> : Datasets for weapon detection based on image classification and object detection tasks.
 
   * [codingonion/awesome-object-detection-and-recognition-datasets](https://github.com/codingonion/awesome-object-detection-and-recognition-datasets) ⭐ 144 | 🐛 0 | 📅 2025-01-07 <img src="https://img.shields.io/github/stars/codingonion/awesome-object-detection-and-recognition-datasets?style=social"/> : A collection of some awesome public object detection and recognition datasets.
 
@@ -79,21 +79,21 @@
 
   * #### Data Annotation
 
-    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,338 | 🐛 950 | 🌐 TypeScript | 📅 2026-09-23 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,341 | 🐛 951 | 🌐 TypeScript | 📅 2026-09-24 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
     * [LabelImg](https://github.com/heartexlabs/labelImg) ⚠️ Archived <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
-    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,779 | 🐛 594 | 🌐 Python | 📅 2026-09-22 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,782 | 🐛 587 | 🌐 Python | 📅 2026-09-24 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
-    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,187 | 🐛 166 | 🌐 Python | 📅 2026-09-18 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,190 | 🐛 166 | 🌐 Python | 📅 2026-09-18 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
     * [VoTT](https://github.com/Microsoft/VoTT) ⚠️ Archived <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 
-    * [AnyLabeling](https://github.com/vietanhdev/anylabeling) ⭐ 3,483 | 🐛 50 | 🌐 Python | 📅 2026-08-30 <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
+    * [AnyLabeling](https://github.com/vietanhdev/anylabeling) ⭐ 3,488 | 🐛 50 | 🌐 Python | 📅 2026-08-30 <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
 
     * [AlexeyAB/Yolo\_mark](https://github.com/AlexeyAB/Yolo_mark) ⭐ 1,842 | 🐛 146 | 🌐 C++ | 📅 2020-12-11 <img src="https://img.shields.io/github/stars/AlexeyAB/Yolo_mark?style=social"/> : GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
 
-    * [opendatalab/labelU](https://github.com/opendatalab/labelU) ⭐ 1,676 | 🐛 32 | 🌐 Python | 📅 2026-07-28 <img src="https://img.shields.io/github/stars/opendatalab/labelU?style=social"/> : Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox.
+    * [opendatalab/labelU](https://github.com/opendatalab/labelU) ⭐ 1,677 | 🐛 32 | 🌐 Python | 📅 2026-07-28 <img src="https://img.shields.io/github/stars/opendatalab/labelU?style=social"/> : Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox.
 
     * [Cartucho/OpenLabeling](https://github.com/Cartucho/OpenLabeling) ⭐ 964 | 🐛 18 | 🌐 Python | 📅 2022-07-06 <img src="https://img.shields.io/github/stars/Cartucho/OpenLabeling?style=social"/> : Label images and video for Computer Vision applications.
 
@@ -103,7 +103,7 @@
 
     * [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) ⚠️ Archived <img src="https://img.shields.io/github/stars/cnyvfang/labelGo-Yolov5AutoLabelImg?style=social"/> : 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕一个基于labelImg及YOLOV5的图形化半自动标注工具。
 
-    * [DarkLabel](https://github.com/darkpgmr/DarkLabel) ⭐ 392 | 🐛 21 | 📅 2021-09-04 <img src="https://img.shields.io/github/stars/darkpgmr/DarkLabel?style=social"/> : Video/Image Labeling and Annotation Tool.
+    * [DarkLabel](https://github.com/darkpgmr/DarkLabel) ⭐ 393 | 🐛 21 | 📅 2021-09-04 <img src="https://img.shields.io/github/stars/darkpgmr/DarkLabel?style=social"/> : Video/Image Labeling and Annotation Tool.
 
     * [pylabel-project/pylabel](https://github.com/pylabel-project/pylabel) ⭐ 341 | 🐛 13 | 🌐 Python | 📅 2024-08-14 <img src="https://img.shields.io/github/stars/pylabel-project/pylabel?style=social"/> : Python library for computer vision labeling tasks. The core functionality is to translate bounding box annotations between different formats-for example, from coco to yolo.
 
@@ -203,7 +203,7 @@
 
 ## Optical Aerial Imagery Datasets
 
-* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,563 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
+* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,569 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
 
 * [AI-TOD](https://github.com/jwwangchn/AI-TOD) ⭐ 277 | 🐛 31 | 🌐 Python | 📅 2024-11-13 <img src="https://img.shields.io/github/stars/jwwangchn/AI-TOD?style=social"/> : "Tiny Object Detection in Aerial Images". (**[IEEE ICPR 2021](https://ieeexplore.ieee.org/abstract/document/9413340)**)
 
@@ -213,7 +213,7 @@
 
 * [RsCarData](https://github.com/ChaoXiao12/Moving-object-detection-DSFNet) ⭐ 125 | 🐛 11 | 🌐 Python | 📅 2022-10-28 <img src="https://img.shields.io/github/stars/ChaoXiao12/Moving-object-detection-DSFNet?style=social"/> : "DSFNet: Dynamic and Static Fusion Network for Moving Object Detection in Satellite Videos". (**[IEEE GRSL 2021](https://ieeexplore.ieee.org/abstract/document/9594855)**)
 
-* [SeaDronesSee](https://github.com/Ben93kie/SeaDronesSee) ⭐ 120 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-13 <img src="https://img.shields.io/github/stars/Ben93kie/SeaDronesSee?style=social"/> : "SeaDronesSee: A Maritime Benchmark for Detecting Humans in Open Water". (**[WACV 2022](https://openaccess.thecvf.com/content/WACV2022/html/Varga_SeaDronesSee_A_Maritime_Benchmark_for_Detecting_Humans_in_Open_Water_WACV_2022_paper.html)**)
+* [SeaDronesSee](https://github.com/Ben93kie/SeaDronesSee) ⭐ 121 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-13 <img src="https://img.shields.io/github/stars/Ben93kie/SeaDronesSee?style=social"/> : "SeaDronesSee: A Maritime Benchmark for Detecting Humans in Open Water". (**[WACV 2022](https://openaccess.thecvf.com/content/WACV2022/html/Varga_SeaDronesSee_A_Maritime_Benchmark_for_Detecting_Humans_in_Open_Water_WACV_2022_paper.html)**)
 
 * [COWC](https://github.com/LLNL/cowc) ⭐ 115 | 🐛 4 | 🌐 Python | 📅 2021-01-29 <img src="https://img.shields.io/github/stars/LLNL/cowc?style=social"/> : "A large contextual dataset for classification, detection and counting of cars with deep learning". (**[ECCV 2016](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_48)**)
 
@@ -241,7 +241,7 @@
 
 * [NightOwls](https://www.nightowls-dataset.org/) : "NightOwls: A Pedestrians at Night Dataset". (**[ACCV 2018](https://link.springer.com/chapter/10.1007/978-3-030-20887-5_43)**).
 
-* [ExDark](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) ⭐ 642 | 🐛 9 | 🌐 MATLAB | 📅 2026-02-13 <img src="https://img.shields.io/github/stars/cs-chan/Exclusively-Dark-Image-Dataset?style=social"/> : "Getting to know low-light images with the exclusively dark dataset". (**[CVIU 2019](https://www.sciencedirect.com/science/article/abs/pii/S1077314218304296)**). "Low-light image enhancement using Gaussian Process for features retrieval". (**[Signal Processing: Image Communication, 2019](https://www.sciencedirect.com/science/article/abs/pii/S0923596518310452)**).
+* [ExDark](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) ⭐ 643 | 🐛 9 | 🌐 MATLAB | 📅 2026-02-13 <img src="https://img.shields.io/github/stars/cs-chan/Exclusively-Dark-Image-Dataset?style=social"/> : "Getting to know low-light images with the exclusively dark dataset". (**[CVIU 2019](https://www.sciencedirect.com/science/article/abs/pii/S1077314218304296)**). "Low-light image enhancement using Gaussian Process for features retrieval". (**[Signal Processing: Image Communication, 2019](https://www.sciencedirect.com/science/article/abs/pii/S0923596518310452)**).
 
 * [DARK FACE](https://flyywh.github.io/CVPRW2019LowLight/) : DARK FACE: Face Detection in Low Light Condition. "Advancing Image Understanding in Poor Visibility Environments: A Collective Benchmark Study". (**[IEEE Transactions on Image Processing 2020](https://ieeexplore.ieee.org/abstract/document/9049390/)**).
 
@@ -289,15 +289,15 @@
 
 ## Multispectral Image Datasets
 
-* [LLVIP](https://github.com/bupt-ai-cz/LLVIP) ⭐ 848 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-08-09 <img src="https://img.shields.io/github/stars/bupt-ai-cz/LLVIP?style=social"/> : "LLVIP: A Visible-Infrared Paired Dataset for Low-Light Vision". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html)**)
+* [LLVIP](https://github.com/bupt-ai-cz/LLVIP) ⭐ 850 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-08-09 <img src="https://img.shields.io/github/stars/bupt-ai-cz/LLVIP?style=social"/> : "LLVIP: A Visible-Infrared Paired Dataset for Low-Light Vision". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html)**)
 
-* [DroneVehicle](https://github.com/VisDrone/DroneVehicle) ⭐ 742 | 🐛 47 | 📅 2022-08-20 <img src="https://img.shields.io/github/stars/VisDrone/DroneVehicle?style=social"/> : "Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning". (**[IEEE TCSVT 2022](https://ieeexplore.ieee.org/abstract/document/9759286/)**)
+* [DroneVehicle](https://github.com/VisDrone/DroneVehicle) ⭐ 743 | 🐛 47 | 📅 2022-08-20 <img src="https://img.shields.io/github/stars/VisDrone/DroneVehicle?style=social"/> : "Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning". (**[IEEE TCSVT 2022](https://ieeexplore.ieee.org/abstract/document/9759286/)**)
 
-* [KAIST\_rgbt](https://github.com/SoonminHwang/rgbt-ped-detection) ⭐ 394 | 🐛 22 | 🌐 MATLAB | 📅 2026-02-02 <img src="https://img.shields.io/github/stars/SoonminHwang/rgbt-ped-detection?style=social"/> : "Multispectral Pedestrian Detection: Benchmark Dataset and Baseline". (**[CVPR 2015](https://openaccess.thecvf.com/content_cvpr_2015/html/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.html)**)
+* [KAIST\_rgbt](https://github.com/SoonminHwang/rgbt-ped-detection) ⭐ 394 | 🐛 23 | 🌐 MATLAB | 📅 2026-02-02 <img src="https://img.shields.io/github/stars/SoonminHwang/rgbt-ped-detection?style=social"/> : "Multispectral Pedestrian Detection: Benchmark Dataset and Baseline". (**[CVPR 2015](https://openaccess.thecvf.com/content_cvpr_2015/html/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.html)**)
 
-* [TarDAL](https://github.com/JinyuanLiu-CV/TarDAL) ⭐ 361 | 🐛 1 | 🌐 Python | 📅 2024-08-20 <img src="https://img.shields.io/github/stars/JinyuanLiu-CV/TarDAL?style=social"/> : "Target-Aware Dual Adversarial Learning and a Multi-Scenario Multi-Modality Benchmark To Fuse Infrared and Visible for Object Detection". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Target-Aware_Dual_Adversarial_Learning_and_a_Multi-Scenario_Multi-Modality_Benchmark_To_CVPR_2022_paper.html)**). ([M3FD Dataset](https://drive.google.com/drive/folders/1H-oO7bgRuVFYDcMGvxstT1nmy0WF_Y_6?usp=sharing))
+* [TarDAL](https://github.com/JinyuanLiu-CV/TarDAL) ⭐ 362 | 🐛 1 | 🌐 Python | 📅 2024-08-20 <img src="https://img.shields.io/github/stars/JinyuanLiu-CV/TarDAL?style=social"/> : "Target-Aware Dual Adversarial Learning and a Multi-Scenario Multi-Modality Benchmark To Fuse Infrared and Visible for Object Detection". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Target-Aware_Dual_Adversarial_Learning_and_a_Multi-Scenario_Multi-Modality_Benchmark_To_CVPR_2022_paper.html)**). ([M3FD Dataset](https://drive.google.com/drive/folders/1H-oO7bgRuVFYDcMGvxstT1nmy0WF_Y_6?usp=sharing))
 
-* [MSRS](https://github.com/Linfeng-Tang/MSRS) ⭐ 280 | 🐛 11 | 🌐 Python | 📅 2026-06-10 <img src="https://img.shields.io/github/stars/Linfeng-Tang/MSRS?style=social"/> : MSRS: Multi-Spectral Road Scenarios for Practical Infrared and Visible Image Fusion. "[PIAFusion](https://github.com/Linfeng-Tang/PIAFusion) ⭐ 133 | 🐛 7 | 🌐 Python | 📅 2026-07-19 <img src="https://img.shields.io/github/stars/Linfeng-Tang/PIAFusion?style=social"/>: A progressive infrared and visible image fusion network based on illumination aware". (**[Information Fusion, 2022](https://www.sciencedirect.com/science/article/abs/pii/S156625352200032X)**)
+* [MSRS](https://github.com/Linfeng-Tang/MSRS) ⭐ 282 | 🐛 11 | 🌐 Python | 📅 2026-06-10 <img src="https://img.shields.io/github/stars/Linfeng-Tang/MSRS?style=social"/> : MSRS: Multi-Spectral Road Scenarios for Practical Infrared and Visible Image Fusion. "[PIAFusion](https://github.com/Linfeng-Tang/PIAFusion) ⭐ 133 | 🐛 7 | 🌐 Python | 📅 2026-07-19 <img src="https://img.shields.io/github/stars/Linfeng-Tang/PIAFusion?style=social"/>: A progressive infrared and visible image fusion network based on illumination aware". (**[Information Fusion, 2022](https://www.sciencedirect.com/science/article/abs/pii/S156625352200032X)**)
 
 * [MFNet](https://github.com/haqishen/MFNet-pytorch) ⭐ 152 | 🐛 8 | 🌐 Python | 📅 2019-12-20 <img src="https://img.shields.io/github/stars/haqishen/MFNet-pytorch?style=social"/> : MFNet-pytorch, image semantic segmentation using RGB-Thermal images. "MFNet: Towards real-time semantic segmentation for autonomous vehicles with multi-spectral scenes". (**[IROS 2017](https://ieeexplore.ieee.org/abstract/document/8206396/)**). ([MFNet Dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) : Multi-spectral Object Detection and Semantic Segmentation Datasets)
 
@@ -315,7 +315,7 @@
 
 * [OpenCOOD|OPV2V](https://github.com/DerrickXuNu/OpenCOOD) ⭐ 832 | 🐛 37 | 🌐 Python | 📅 2024-08-17 <img src="https://img.shields.io/github/stars/DerrickXuNu/OpenCOOD?style=social"/> : OpenCOOD is an Open COOperative Detection framework for autonomous driving. It is also the official implementation of the ICRA 2022 paper [OPV2V](https://mobility-lab.seas.ucla.edu/opv2v/). "OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication". (**[ICRA, 2022](https://ieeexplore.ieee.org/abstract/document/9812038/)**). [mobility-lab.seas.ucla.edu/opv2v/](https://mobility-lab.seas.ucla.edu/opv2v/)
 
-* [DAIR-V2X](https://github.com/AIR-THU/DAIR-V2X) ⭐ 647 | 🐛 46 | 🌐 Python | 📅 2025-02-21 <img src="https://img.shields.io/github/stars/AIR-THU/DAIR-V2X?style=social"/> : "DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.html)**). [全球首个车路协同自动驾驶数据集发布](https://thudair.baai.ac.cn)
+* [DAIR-V2X](https://github.com/AIR-THU/DAIR-V2X) ⭐ 647 | 🐛 47 | 🌐 Python | 📅 2025-02-21 <img src="https://img.shields.io/github/stars/AIR-THU/DAIR-V2X?style=social"/> : "DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.html)**). [全球首个车路协同自动驾驶数据集发布](https://thudair.baai.ac.cn)
 
 * [V2X-ViT|V2XSet](https://github.com/DerrickXuNu/v2x-vit) ⭐ 349 | 🐛 7 | 🌐 Python | 📅 2024-09-06 <img src="https://img.shields.io/github/stars/DerrickXuNu/v2x-vit?style=social"/> : "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer". (**[ECCV, 2022](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_7)**).
 
@@ -333,7 +333,7 @@
 
 ## Super-Resolution Field Datasets
 
-* [VideoLQ](https://github.com/ckkelvinchan/RealBasicVSR) ⭐ 1,106 | 🐛 50 | 🌐 Python | 📅 2023-06-05 <img src="https://img.shields.io/github/stars/ckkelvinchan/RealBasicVSR?style=social"/> : "Investigating Tradeoffs in Real-World Video Super-Resolution". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Chan_Investigating_Tradeoffs_in_Real-World_Video_Super-Resolution_CVPR_2022_paper.html)**)
+* [VideoLQ](https://github.com/ckkelvinchan/RealBasicVSR) ⭐ 1,107 | 🐛 50 | 🌐 Python | 📅 2023-06-05 <img src="https://img.shields.io/github/stars/ckkelvinchan/RealBasicVSR?style=social"/> : "Investigating Tradeoffs in Real-World Video Super-Resolution". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Chan_Investigating_Tradeoffs_in_Real-World_Video_Super-Resolution_CVPR_2022_paper.html)**)
 
 ## Face Detection and Recognition Datasets
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
