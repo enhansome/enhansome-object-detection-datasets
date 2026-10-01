@@ -330,7 +330,7 @@
                 "id": 292016444,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T06:51:56Z",
+                "last_commit": "2026-10-01T09:08:19Z",
                 "open_issues": 29,
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T11:54:48Z",
-                    "open_issues": 941,
+                    "last_commit": "2026-10-01T11:36:03Z",
+                    "open_issues": 945,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28378,
+                    "stars": 28388,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25054,
+                    "stars": 25055,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-30T12:00:36Z",
-                    "open_issues": 593,
+                    "last_commit": "2026-10-01T11:32:47Z",
+                    "open_issues": 592,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16825,
+                    "stars": 16837,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,8 +490,8 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-30T08:31:54Z",
-                    "open_issues": 164,
+                    "last_commit": "2026-10-01T13:06:53Z",
+                    "open_issues": 165,
                     "owner": "wkentaro",
                     "repo": "labelme",
                     "stars": 16202,
@@ -561,7 +561,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3491,
+                    "stars": 3490,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -860,7 +860,7 @@
                     "id": 335095302,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-23T07:18:37Z",
+                    "last_commit": "2026-09-30T18:40:22Z",
                     "open_issues": 6,
                     "owner": "stephanecharette",
                     "repo": "DarkMark",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2579,
+            "stars": 2583,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1788,7 +1788,7 @@
             "open_issues": 2,
             "owner": "TianwenZhang0825",
             "repo": "Official-SSDD",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T12:33:46.275Z",
+    "last_updated": "2026-10-01T13:12:57.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
