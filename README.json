@@ -24,7 +24,7 @@
                 "open_issues": 1,
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3805,
+                "stars": 3806,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T08:19:22Z",
-                    "open_issues": 944,
+                    "last_commit": "2026-10-02T21:00:36Z",
+                    "open_issues": 947,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28397,
+                    "stars": 28394,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T12:16:55Z",
+                    "last_commit": "2026-10-02T14:22:55Z",
                     "open_issues": 592,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16847,
+                    "stars": 16852,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-02T08:18:16Z",
-                    "open_issues": 165,
+                    "last_commit": "2026-10-03T02:00:06Z",
+                    "open_issues": 164,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16205,
+                    "stars": 16206,
                     "topics": [
                       "annotations",
                       "classification",
@@ -623,7 +623,7 @@
                     "open_issues": 32,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1679,
+                    "stars": 1678,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1218,7 +1218,7 @@
                     "open_issues": 0,
                     "owner": "albumentations-team",
                     "repo": "albumentations",
-                    "stars": 15310,
+                    "stars": 15309,
                     "topics": [
                       "augmentation",
                       "deep-learning",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2586,
+            "stars": 2588,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1571,7 +1571,7 @@
             "open_issues": 11,
             "owner": "ChaoXiao12",
             "repo": "Moving-object-detection-DSFNet",
-            "stars": 125,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1848,7 +1848,7 @@
             "open_issues": 47,
             "owner": "VisDrone",
             "repo": "DroneVehicle",
-            "stars": 743,
+            "stars": 742,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T12:33:29.425Z",
+    "last_updated": "2026-10-03T04:57:48.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",

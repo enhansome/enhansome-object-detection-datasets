@@ -1,6 +1,6 @@
 # Awesome-Object-Detection-Datasets with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,508 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
@@ -41,7 +41,7 @@
 
 * ### Awesome List
 
-  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,805 | 🐛 1 | 📅 2026-09-20 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
+  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,806 | 🐛 1 | 📅 2026-09-20 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
 
   * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,347 | 🐛 2 | 📅 2026-09-09 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
 
@@ -79,13 +79,13 @@
 
   * #### Data Annotation
 
-    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,397 | 🐛 944 | 🌐 TypeScript | 📅 2026-10-02 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,394 | 🐛 947 | 🌐 TypeScript | 📅 2026-10-02 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
     * [LabelImg](https://github.com/heartexlabs/labelImg) ⚠️ Archived <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
-    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,847 | 🐛 592 | 🌐 Python | 📅 2026-10-02 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 16,852 | 🐛 592 | 🌐 Python | 📅 2026-10-02 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
-    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,205 | 🐛 165 | 🌐 Python | 📅 2026-10-02 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,206 | 🐛 164 | 🌐 Python | 📅 2026-10-03 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
     * [VoTT](https://github.com/Microsoft/VoTT) ⚠️ Archived <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 
@@ -93,7 +93,7 @@
 
     * [AlexeyAB/Yolo\_mark](https://github.com/AlexeyAB/Yolo_mark) ⭐ 1,842 | 🐛 146 | 🌐 C++ | 📅 2020-12-11 <img src="https://img.shields.io/github/stars/AlexeyAB/Yolo_mark?style=social"/> : GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
 
-    * [opendatalab/labelU](https://github.com/opendatalab/labelU) ⭐ 1,679 | 🐛 32 | 🌐 Python | 📅 2026-07-28 <img src="https://img.shields.io/github/stars/opendatalab/labelU?style=social"/> : Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox.
+    * [opendatalab/labelU](https://github.com/opendatalab/labelU) ⭐ 1,678 | 🐛 32 | 🌐 Python | 📅 2026-07-28 <img src="https://img.shields.io/github/stars/opendatalab/labelU?style=social"/> : Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox.
 
     * [Cartucho/OpenLabeling](https://github.com/Cartucho/OpenLabeling) ⭐ 965 | 🐛 18 | 🌐 Python | 📅 2022-07-06 <img src="https://img.shields.io/github/stars/Cartucho/OpenLabeling?style=social"/> : Label images and video for Computer Vision applications.
 
@@ -203,7 +203,7 @@
 
 ## Optical Aerial Imagery Datasets
 
-* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,586 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
+* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,588 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
 
 * [AI-TOD](https://github.com/jwwangchn/AI-TOD) ⭐ 279 | 🐛 31 | 🌐 Python | 📅 2024-11-13 <img src="https://img.shields.io/github/stars/jwwangchn/AI-TOD?style=social"/> : "Tiny Object Detection in Aerial Images". (**[IEEE ICPR 2021](https://ieeexplore.ieee.org/abstract/document/9413340)**)
 
@@ -211,7 +211,7 @@
 
 * [VISO](https://github.com/The-Learning-And-Vision-Atelier-LAVA/VISO) ⭐ 175 | 🐛 7 | 📅 2021-12-22 <img src="https://img.shields.io/github/stars/The-Learning-And-Vision-Atelier-LAVA/VISO?style=social"/> : "Detecting and Tracking Small and Dense Moving Objects in Satellite Videos: A Benchmark". (**[IEEE TGRS 2021](https://ieeexplore.ieee.org/abstract/document/9625976)**)
 
-* [RsCarData](https://github.com/ChaoXiao12/Moving-object-detection-DSFNet) ⭐ 125 | 🐛 11 | 🌐 Python | 📅 2022-10-28 <img src="https://img.shields.io/github/stars/ChaoXiao12/Moving-object-detection-DSFNet?style=social"/> : "DSFNet: Dynamic and Static Fusion Network for Moving Object Detection in Satellite Videos". (**[IEEE GRSL 2021](https://ieeexplore.ieee.org/abstract/document/9594855)**)
+* [RsCarData](https://github.com/ChaoXiao12/Moving-object-detection-DSFNet) ⭐ 124 | 🐛 11 | 🌐 Python | 📅 2022-10-28 <img src="https://img.shields.io/github/stars/ChaoXiao12/Moving-object-detection-DSFNet?style=social"/> : "DSFNet: Dynamic and Static Fusion Network for Moving Object Detection in Satellite Videos". (**[IEEE GRSL 2021](https://ieeexplore.ieee.org/abstract/document/9594855)**)
 
 * [SeaDronesSee](https://github.com/Ben93kie/SeaDronesSee) ⭐ 121 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-13 <img src="https://img.shields.io/github/stars/Ben93kie/SeaDronesSee?style=social"/> : "SeaDronesSee: A Maritime Benchmark for Detecting Humans in Open Water". (**[WACV 2022](https://openaccess.thecvf.com/content/WACV2022/html/Varga_SeaDronesSee_A_Maritime_Benchmark_for_Detecting_Humans_in_Open_Water_WACV_2022_paper.html)**)
 
@@ -291,7 +291,7 @@
 
 * [LLVIP](https://github.com/bupt-ai-cz/LLVIP) ⭐ 851 | 🐛 34 | 🌐 Jupyter Notebook | 📅 2025-08-09 <img src="https://img.shields.io/github/stars/bupt-ai-cz/LLVIP?style=social"/> : "LLVIP: A Visible-Infrared Paired Dataset for Low-Light Vision". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html)**)
 
-* [DroneVehicle](https://github.com/VisDrone/DroneVehicle) ⭐ 743 | 🐛 47 | 📅 2022-08-20 <img src="https://img.shields.io/github/stars/VisDrone/DroneVehicle?style=social"/> : "Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning". (**[IEEE TCSVT 2022](https://ieeexplore.ieee.org/abstract/document/9759286/)**)
+* [DroneVehicle](https://github.com/VisDrone/DroneVehicle) ⭐ 742 | 🐛 47 | 📅 2022-08-20 <img src="https://img.shields.io/github/stars/VisDrone/DroneVehicle?style=social"/> : "Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning". (**[IEEE TCSVT 2022](https://ieeexplore.ieee.org/abstract/document/9759286/)**)
 
 * [KAIST\_rgbt](https://github.com/SoonminHwang/rgbt-ped-detection) ⭐ 395 | 🐛 23 | 🌐 MATLAB | 📅 2026-02-02 <img src="https://img.shields.io/github/stars/SoonminHwang/rgbt-ped-detection?style=social"/> : "Multispectral Pedestrian Detection: Benchmark Dataset and Baseline". (**[CVPR 2015](https://openaccess.thecvf.com/content_cvpr_2015/html/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.html)**)
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
