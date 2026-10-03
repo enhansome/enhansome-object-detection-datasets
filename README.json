@@ -494,7 +494,7 @@
                     "open_issues": 164,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16206,
+                    "stars": 16207,
                     "topics": [
                       "annotations",
                       "classification",
@@ -1815,7 +1815,7 @@
             "open_issues": 34,
             "owner": "bupt-ai-cz",
             "repo": "LLVIP",
-            "stars": 851,
+            "stars": 852,
             "topics": [
               "cnn",
               "computer-vision",
@@ -1848,7 +1848,7 @@
             "open_issues": 47,
             "owner": "VisDrone",
             "repo": "DroneVehicle",
-            "stars": 742,
+            "stars": 744,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:57:48.186Z",
+    "last_updated": "2026-10-03T11:38:48.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
