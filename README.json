@@ -144,7 +144,7 @@
                 "open_issues": 2,
                 "owner": "vvincenttttt",
                 "repo": "Awesome-3D-Object-Detection",
-                "stars": 692,
+                "stars": 693,
                 "topics": [
                   "3d-representation",
                   "autonomous-driving",
@@ -330,8 +330,8 @@
                 "id": 292016444,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T09:08:19Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-04T03:24:28Z",
+                "open_issues": 30,
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
                 "stars": 692,
@@ -379,7 +379,7 @@
                     "open_issues": 947,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28394,
+                    "stars": 28399,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -452,7 +452,7 @@
                     "open_issues": 592,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16852,
+                    "stars": 16857,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-03T02:00:06Z",
-                    "open_issues": 164,
+                    "last_commit": "2026-10-03T12:39:33Z",
+                    "open_issues": 165,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16207,
+                    "stars": 16209,
                     "topics": [
                       "annotations",
                       "classification",
@@ -525,7 +525,7 @@
                     "open_issues": 246,
                     "owner": "microsoft",
                     "repo": "VoTT",
-                    "stars": 4428,
+                    "stars": 4430,
                     "topics": [
                       "annotation-tool",
                       "cntk",
@@ -561,7 +561,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3491,
+                    "stars": 3492,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -1545,7 +1545,7 @@
             "open_issues": 7,
             "owner": "QingyongHu",
             "repo": "VISO",
-            "stars": 175,
+            "stars": 176,
             "topics": [
               "dataset",
               "detection",
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:38:48.266Z",
+    "last_updated": "2026-10-04T12:20:47.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
