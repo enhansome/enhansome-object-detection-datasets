@@ -375,8 +375,8 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T21:00:36Z",
-                    "open_issues": 947,
+                    "last_commit": "2026-10-05T13:51:42Z",
+                    "open_issues": 949,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
                     "stars": 28399,
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25056,
+                    "stars": 25054,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T14:22:55Z",
-                    "open_issues": 592,
+                    "last_commit": "2026-10-05T13:41:33Z",
+                    "open_issues": 579,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16857,
+                    "stars": 16861,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -623,7 +623,7 @@
                     "open_issues": 32,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1678,
+                    "stars": 1679,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2588,
+            "stars": 2590,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1969,7 +1969,7 @@
             "open_issues": 37,
             "owner": "DerrickXuNu",
             "repo": "OpenCOOD",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "autonomous-driving",
               "collaborative-perception",
@@ -1999,7 +1999,7 @@
             "open_issues": 47,
             "owner": "AIR-THU",
             "repo": "DAIR-V2X",
-            "stars": 647,
+            "stars": 648,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:20:47.179Z",
+    "last_updated": "2026-10-05T14:36:24.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
