@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2347,
+                "stars": 2348,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T13:51:42Z",
+                    "last_commit": "2026-10-06T10:37:17Z",
                     "open_issues": 949,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28399,
+                    "stars": 28407,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25054,
+                    "stars": 25055,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -443,37 +443,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs.",
+                    "description": "CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs.",
                     "homepage": "https://www.cvat.ai",
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T13:41:33Z",
+                    "last_commit": "2026-10-06T09:29:03Z",
                     "open_issues": 579,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16861,
+                    "stars": 16863,
                     "topics": [
                       "annotation",
                       "annotation-tool",
                       "annotations",
+                      "audio-annotation",
+                      "audio-annotation-tool",
+                      "audio-transcription",
                       "boundingbox",
                       "computer-vision",
                       "computer-vision-annotation",
                       "dataset",
-                      "deep-learning",
                       "image-annotation",
                       "image-classification",
                       "image-labeling",
                       "image-labelling-tool",
-                      "imagenet",
                       "labeling",
                       "labeling-tool",
                       "object-detection",
-                      "pytorch",
                       "semantic-segmentation",
-                      "tensorflow",
-                      "video-annotation"
+                      "video-annotation",
+                      "yolo"
                     ]
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-03T12:39:33Z",
-                    "open_issues": 165,
+                    "last_commit": "2026-10-05T18:01:23Z",
+                    "open_issues": 166,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16209,
+                    "stars": 16208,
                     "topics": [
                       "annotations",
                       "classification",
@@ -561,7 +561,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3492,
+                    "stars": 3493,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -623,7 +623,7 @@
                     "open_issues": 32,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1679,
+                    "stars": 1680,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1281,7 +1281,7 @@
                     "id": 665015643,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-07T16:45:57Z",
+                    "last_commit": "2026-10-05T16:52:28Z",
                     "open_issues": 6,
                     "owner": "lancedb",
                     "repo": "yoloexplorer",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2590,
+            "stars": 2592,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1698,7 +1698,7 @@
             "open_issues": 26,
             "owner": "YeRen123455",
             "repo": "Infrared-Small-Target-Detection",
-            "stars": 536,
+            "stars": 535,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1767,7 +1767,7 @@
             "open_issues": 5,
             "owner": "chaozhong2010",
             "repo": "HRSID",
-            "stars": 304,
+            "stars": 305,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T14:36:24.537Z",
+    "last_updated": "2026-10-06T11:06:48.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
