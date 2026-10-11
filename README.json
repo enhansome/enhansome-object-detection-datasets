@@ -24,7 +24,7 @@
                 "open_issues": 1,
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3818,
+                "stars": 3819,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -51,10 +51,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-09T08:17:49Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2352,
+                "stars": 2354,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -111,7 +111,7 @@
                 "open_issues": 4,
                 "owner": "xahidbuffon",
                 "repo": "Awesome_Underwater_Datasets",
-                "stars": 709,
+                "stars": 710,
                 "topics": [
                   "detection",
                   "imagery",
@@ -330,8 +330,8 @@
                 "id": 292016444,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T02:31:21Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-11T02:56:05Z",
+                "open_issues": 32,
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
                 "stars": 692,
@@ -379,7 +379,7 @@
                     "open_issues": 953,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28435,
+                    "stars": 28442,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25050,
+                    "stars": 25049,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -449,10 +449,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-09T13:10:36Z",
-                    "open_issues": 569,
+                    "open_issues": 570,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16895,
+                    "stars": 16899,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -494,7 +494,7 @@
                     "open_issues": 175,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16214,
+                    "stars": 16215,
                     "topics": [
                       "annotations",
                       "classification",
@@ -1375,7 +1375,7 @@
                 "open_issues": 93,
                 "owner": "detectRecog",
                 "repo": "CCPD",
-                "stars": 2657,
+                "stars": 2658,
                 "topics": [
                   "ccpd",
                   "dataset",
@@ -1767,7 +1767,7 @@
             "open_issues": 5,
             "owner": "chaozhong2010",
             "repo": "HRSID",
-            "stars": 305,
+            "stars": 304,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1815,7 +1815,7 @@
             "open_issues": 34,
             "owner": "bupt-ai-cz",
             "repo": "LLVIP",
-            "stars": 852,
+            "stars": 853,
             "topics": [
               "cnn",
               "computer-vision",
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T12:30:43.096Z",
+    "last_updated": "2026-10-11T12:48:40.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
