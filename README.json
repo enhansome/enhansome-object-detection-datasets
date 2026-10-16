@@ -54,7 +54,7 @@
                 "open_issues": 3,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2358,
+                "stars": 2360,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -111,7 +111,7 @@
                 "open_issues": 4,
                 "owner": "xahidbuffon",
                 "repo": "Awesome_Underwater_Datasets",
-                "stars": 710,
+                "stars": 711,
                 "topics": [
                   "detection",
                   "imagery",
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T00:11:38Z",
-                    "open_issues": 951,
+                    "last_commit": "2026-10-16T00:43:57Z",
+                    "open_issues": 953,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28469,
+                    "stars": 28474,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-15T11:01:11Z",
-                    "open_issues": 580,
+                    "last_commit": "2026-10-16T11:06:11Z",
+                    "open_issues": 590,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16934,
+                    "stars": 16938,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-15T10:30:13Z",
-                    "open_issues": 171,
+                    "last_commit": "2026-10-16T11:07:25Z",
+                    "open_issues": 174,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16223,
+                    "stars": 16228,
                     "topics": [
                       "annotations",
                       "classification",
@@ -623,7 +623,7 @@
                     "open_issues": 32,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1689,
+                    "stars": 1690,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1375,7 +1375,7 @@
                 "open_issues": 93,
                 "owner": "detectRecog",
                 "repo": "CCPD",
-                "stars": 2661,
+                "stars": 2662,
                 "topics": [
                   "ccpd",
                   "dataset",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2601,
+            "stars": 2604,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1634,7 +1634,7 @@
             "open_issues": 1,
             "owner": "WindVChen",
             "repo": "LEVIR-Ship",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "dataset",
               "optical-imaging",
@@ -1767,7 +1767,7 @@
             "open_issues": 5,
             "owner": "chaozhong2010",
             "repo": "HRSID",
-            "stars": 306,
+            "stars": 307,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1848,7 +1848,7 @@
             "open_issues": 47,
             "owner": "VisDrone",
             "repo": "DroneVehicle",
-            "stars": 749,
+            "stars": 750,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1999,7 +1999,7 @@
             "open_issues": 47,
             "owner": "AIR-THU",
             "repo": "DAIR-V2X",
-            "stars": 652,
+            "stars": 654,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2155,7 +2155,7 @@
             "open_issues": 21,
             "owner": "AIR-THU",
             "repo": "DAIR-V2X-Seq",
-            "stars": 206,
+            "stars": 208,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:27:38.142Z",
+    "last_updated": "2026-10-16T11:22:46.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
