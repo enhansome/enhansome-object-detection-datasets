@@ -51,7 +51,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-09T08:17:49Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
                 "stars": 2361,
@@ -330,8 +330,8 @@
                 "id": 292016444,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T12:55:08Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-18T02:38:55Z",
+                "open_issues": 34,
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
                 "stars": 692,
@@ -379,7 +379,7 @@
                     "open_issues": 954,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28477,
+                    "stars": 28484,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25043,
+                    "stars": 25042,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -452,7 +452,7 @@
                     "open_issues": 583,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 16943,
+                    "stars": 16948,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -491,10 +491,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-16T13:24:59Z",
-                    "open_issues": 172,
+                    "open_issues": 176,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16229,
+                    "stars": 16230,
                     "topics": [
                       "annotations",
                       "classification",
@@ -525,7 +525,7 @@
                     "open_issues": 246,
                     "owner": "microsoft",
                     "repo": "VoTT",
-                    "stars": 4428,
+                    "stars": 4427,
                     "topics": [
                       "annotation-tool",
                       "cntk",
@@ -1375,7 +1375,7 @@
                 "open_issues": 93,
                 "owner": "detectRecog",
                 "repo": "CCPD",
-                "stars": 2662,
+                "stars": 2661,
                 "topics": [
                   "ccpd",
                   "dataset",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2603,
+            "stars": 2604,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1698,7 +1698,7 @@
             "open_issues": 26,
             "owner": "YeRen123455",
             "repo": "Infrared-Small-Target-Detection",
-            "stars": 535,
+            "stars": 536,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T10:42:42.873Z",
+    "last_updated": "2026-10-18T11:03:19.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
