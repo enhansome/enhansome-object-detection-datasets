@@ -24,7 +24,7 @@
                 "open_issues": 1,
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3841,
+                "stars": 3844,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -81,7 +81,7 @@
                 "open_issues": 9,
                 "owner": "ZHOUYI1023",
                 "repo": "awesome-radar-perception",
-                "stars": 1898,
+                "stars": 1899,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -186,7 +186,7 @@
                 "open_issues": 2,
                 "owner": "lartpang",
                 "repo": "awesome-segmentation-saliency-dataset",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "dataset",
                   "datasets",
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T09:22:38Z",
-                    "open_issues": 957,
+                    "last_commit": "2026-10-29T00:09:00Z",
+                    "open_issues": 958,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28575,
+                    "stars": 28581,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25034,
+                    "stars": 25032,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T12:43:03Z",
-                    "open_issues": 586,
+                    "last_commit": "2026-10-29T12:47:57Z",
+                    "open_issues": 591,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 17023,
+                    "stars": 17031,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -494,7 +494,7 @@
                     "open_issues": 174,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16248,
+                    "stars": 16250,
                     "topics": [
                       "annotations",
                       "classification",
@@ -525,7 +525,7 @@
                     "open_issues": 246,
                     "owner": "microsoft",
                     "repo": "VoTT",
-                    "stars": 4424,
+                    "stars": 4425,
                     "topics": [
                       "annotation-tool",
                       "cntk",
@@ -623,7 +623,7 @@
                     "open_issues": 32,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1699,
+                    "stars": 1700,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2054,7 +2054,7 @@
             "open_issues": 14,
             "owner": "PJLab-ADG",
             "repo": "PCSim",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "autonomous-driving",
               "carla",
@@ -2155,7 +2155,7 @@
             "open_issues": 21,
             "owner": "AIR-THU",
             "repo": "DAIR-V2X-Seq",
-            "stars": 209,
+            "stars": 210,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T12:52:50.625Z",
+    "last_updated": "2026-10-29T12:59:15.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
