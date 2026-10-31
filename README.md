@@ -1,6 +1,6 @@
 # Awesome-Object-Detection-Datasets with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,170 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,759 | 🐛 105 | 📅 2026-09-02
 
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
@@ -41,11 +41,11 @@
 
 * ### Awesome List
 
-  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,845 | 🐛 1 | 📅 2026-10-23 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
+  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,847 | 🐛 1 | 📅 2026-10-23 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
 
-  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,365 | 🐛 2 | 📅 2026-09-09 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
+  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,366 | 🐛 2 | 📅 2026-09-09 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
 
-  * [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) ⭐ 1,899 | 🐛 9 | 📅 2025-04-05 <img src="https://img.shields.io/github/stars/ZHOUYI1023/awesome-radar-perception?style=social"/> : A curated list of radar datasets, detection, tracking and fusion.
+  * [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) ⭐ 1,900 | 🐛 9 | 📅 2025-04-05 <img src="https://img.shields.io/github/stars/ZHOUYI1023/awesome-radar-perception?style=social"/> : A curated list of radar datasets, detection, tracking and fusion.
 
   * [xahidbuffon/Awesome\_Underwater\_Datasets](https://github.com/xahidbuffon/Awesome_Underwater_Datasets) ⭐ 712 | 🐛 4 | 📅 2025-05-22 <img src="https://img.shields.io/github/stars/xahidbuffon/Awesome_Underwater_Datasets?style=social"/> : Pointers to large-scale underwater datasets and relevant resources.
 
@@ -79,13 +79,13 @@
 
   * #### Data Annotation
 
-    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,590 | 🐛 959 | 🌐 TypeScript | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,594 | 🐛 958 | 🌐 TypeScript | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
     * [LabelImg](https://github.com/heartexlabs/labelImg) ⚠️ Archived <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
-    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 17,038 | 🐛 593 | 🌐 Python | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 17,044 | 🐛 594 | 🌐 Python | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
-    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,251 | 🐛 174 | 🌐 Python | 📅 2026-10-30 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,251 | 🐛 174 | 🌐 Python | 📅 2026-10-31 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
     * [VoTT](https://github.com/Microsoft/VoTT) ⚠️ Archived <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 
@@ -143,7 +143,7 @@
 
   * #### Data Management
 
-    * [YOLOExplorer](https://github.com/lancedb/yoloexplorer) ⭐ 145 | 🐛 6 | 🌐 Python | 📅 2026-10-05 <img src="https://img.shields.io/github/stars/lancedb/yoloexplorer?style=social"/> : YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds. Explore, manipulate and iterate on Computer Vision datasets with precision using simple APIs. Supports SQL filters, vector similarity search, native interface with Pandas and more.
+    * [YOLOExplorer](https://github.com/lancedb/yoloexplorer) ⭐ 146 | 🐛 6 | 🌐 Python | 📅 2026-10-05 <img src="https://img.shields.io/github/stars/lancedb/yoloexplorer?style=social"/> : YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds. Explore, manipulate and iterate on Computer Vision datasets with precision using simple APIs. Supports SQL filters, vector similarity search, native interface with Pandas and more.
 
 ## General Detection and Recognition Datasets
 
@@ -187,9 +187,9 @@
 
 ## Person Detection Datasets
 
-* [TinyPerson](https://github.com/ucas-vg/PointTinyBenchmark) ⭐ 700 | 🐛 35 | 🌐 Python | 📅 2025-06-12 <img src="https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark?style=social"/> : "Scale Match for Tiny Person Detection". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Yu_Scale_Match_for_Tiny_Person_Detection_WACV_2020_paper.html)**)
+* [TinyPerson](https://github.com/ucas-vg/PointTinyBenchmark) ⭐ 699 | 🐛 35 | 🌐 Python | 📅 2025-06-12 <img src="https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark?style=social"/> : "Scale Match for Tiny Person Detection". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Yu_Scale_Match_for_Tiny_Person_Detection_WACV_2020_paper.html)**)
 
-* [TinyPerson v2 | SeaPerson](https://github.com/ucas-vg/PointTinyBenchmark) ⭐ 700 | 🐛 35 | 🌐 Python | 📅 2025-06-12 <img src="https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark?style=social"/> : "Object Localization Under Single Coarse Point Supervision". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Object_Localization_Under_Single_Coarse_Point_Supervision_CVPR_2022_paper.html)**)
+* [TinyPerson v2 | SeaPerson](https://github.com/ucas-vg/PointTinyBenchmark) ⭐ 699 | 🐛 35 | 🌐 Python | 📅 2025-06-12 <img src="https://img.shields.io/github/stars/ucas-vg/PointTinyBenchmark?style=social"/> : "Object Localization Under Single Coarse Point Supervision". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Object_Localization_Under_Single_Coarse_Point_Supervision_CVPR_2022_paper.html)**)
 
 * [INRIA Person](http://lear.inrialpes.fr/data) : "Histograms of oriented gradients for human detection". (**[CVPR 2005](https://ieeexplore.ieee.org/abstract/document/1467360)**)
 
@@ -199,11 +199,11 @@
 
 ## Anti-UAV Datasets
 
-* [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) ⭐ 879 | 🐛 34 | 🌐 Python | 📅 2025-05-07 <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
+* [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) ⭐ 880 | 🐛 34 | 🌐 Python | 📅 2025-05-07 <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
 
 ## Optical Aerial Imagery Datasets
 
-* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,628 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
+* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,630 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
 
 * [AI-TOD](https://github.com/jwwangchn/AI-TOD) ⭐ 282 | 🐛 31 | 🌐 Python | 📅 2024-11-13 <img src="https://img.shields.io/github/stars/jwwangchn/AI-TOD?style=social"/> : "Tiny Object Detection in Aerial Images". (**[IEEE ICPR 2021](https://ieeexplore.ieee.org/abstract/document/9413340)**)
 
@@ -333,7 +333,7 @@
 
 ## Super-Resolution Field Datasets
 
-* [VideoLQ](https://github.com/ckkelvinchan/RealBasicVSR) ⭐ 1,121 | 🐛 50 | 🌐 Python | 📅 2023-06-05 <img src="https://img.shields.io/github/stars/ckkelvinchan/RealBasicVSR?style=social"/> : "Investigating Tradeoffs in Real-World Video Super-Resolution". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Chan_Investigating_Tradeoffs_in_Real-World_Video_Super-Resolution_CVPR_2022_paper.html)**)
+* [VideoLQ](https://github.com/ckkelvinchan/RealBasicVSR) ⭐ 1,122 | 🐛 50 | 🌐 Python | 📅 2023-06-05 <img src="https://img.shields.io/github/stars/ckkelvinchan/RealBasicVSR?style=social"/> : "Investigating Tradeoffs in Real-World Video Super-Resolution". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Chan_Investigating_Tradeoffs_in_Real-World_Video_Super-Resolution_CVPR_2022_paper.html)**)
 
 ## Face Detection and Recognition Datasets
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
