@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2368,
+                "stars": 2369,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -330,7 +330,7 @@
                 "id": 292016444,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-02T12:48:57Z",
+                "last_commit": "2026-11-03T02:15:00Z",
                 "open_issues": 30,
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T13:48:46Z",
-                    "open_issues": 958,
+                    "last_commit": "2026-11-03T09:22:34Z",
+                    "open_issues": 959,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28614,
+                    "stars": 28619,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25031,
+                    "stars": 25030,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T15:35:57Z",
+                    "last_commit": "2026-11-03T13:39:03Z",
                     "open_issues": 591,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 17051,
+                    "stars": 17059,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-02T13:38:18Z",
-                    "open_issues": 183,
+                    "last_commit": "2026-11-03T10:44:37Z",
+                    "open_issues": 175,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16255,
+                    "stars": 16259,
                     "topics": [
                       "annotations",
                       "classification",
@@ -525,7 +525,7 @@
                     "open_issues": 246,
                     "owner": "microsoft",
                     "repo": "VoTT",
-                    "stars": 4427,
+                    "stars": 4425,
                     "topics": [
                       "annotation-tool",
                       "cntk",
@@ -561,7 +561,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3510,
+                    "stars": 3512,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -623,7 +623,7 @@
                     "open_issues": 32,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1700,
+                    "stars": 1702,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -644,7 +644,7 @@
                     "open_issues": 18,
                     "owner": "Cartucho",
                     "repo": "OpenLabeling",
-                    "stars": 966,
+                    "stars": 967,
                     "topics": [
                       "bounding-boxes",
                       "darkflow",
@@ -1218,7 +1218,7 @@
                     "open_issues": 0,
                     "owner": "albumentations-team",
                     "repo": "albumentations",
-                    "stars": 15300,
+                    "stars": 15299,
                     "topics": [
                       "augmentation",
                       "deep-learning",
@@ -1281,7 +1281,7 @@
                     "id": 665015643,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-05T16:52:28Z",
+                    "last_commit": "2026-11-02T16:51:59Z",
                     "open_issues": 6,
                     "owner": "lancedb",
                     "repo": "yoloexplorer",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2633,
+            "stars": 2634,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1815,7 +1815,7 @@
             "open_issues": 35,
             "owner": "bupt-ai-cz",
             "repo": "LLVIP",
-            "stars": 857,
+            "stars": 858,
             "topics": [
               "cnn",
               "computer-vision",
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T15:49:24.985Z",
+    "last_updated": "2026-11-03T14:12:13.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
