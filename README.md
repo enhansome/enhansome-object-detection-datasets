@@ -1,6 +1,6 @@
 # Awesome-Object-Detection-Datasets with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,051 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 530,717 | 🐛 103 | 📅 2026-09-02
 
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
@@ -41,11 +41,11 @@
 
 * ### Awesome List
 
-  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,850 | 🐛 1 | 📅 2026-10-23 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
+  * [M-3LAB/awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) ⭐ 3,850 | 🐛 1 | 📅 2026-11-04 <img src="https://img.shields.io/github/stars/M-3LAB/awesome-industrial-anomaly-detection?style=social"/> : Paper list and datasets for industrial image anomaly detection.
 
-  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,369 | 🐛 2 | 📅 2026-09-09 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
+  * [wenhwu/awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) ⭐ 2,370 | 🐛 2 | 📅 2026-09-09 <img src="https://img.shields.io/github/stars/wenhwu/awesome-remote-sensing-change-detection?style=social"/> : List of datasets, codes, and contests related to remote sensing change detection.
 
-  * [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) ⭐ 1,900 | 🐛 9 | 📅 2025-04-05 <img src="https://img.shields.io/github/stars/ZHOUYI1023/awesome-radar-perception?style=social"/> : A curated list of radar datasets, detection, tracking and fusion.
+  * [ZHOUYI1023/awesome-radar-perception](https://github.com/ZHOUYI1023/awesome-radar-perception) ⭐ 1,899 | 🐛 9 | 📅 2025-04-05 <img src="https://img.shields.io/github/stars/ZHOUYI1023/awesome-radar-perception?style=social"/> : A curated list of radar datasets, detection, tracking and fusion.
 
   * [xahidbuffon/Awesome\_Underwater\_Datasets](https://github.com/xahidbuffon/Awesome_Underwater_Datasets) ⭐ 711 | 🐛 4 | 📅 2025-05-22 <img src="https://img.shields.io/github/stars/xahidbuffon/Awesome_Underwater_Datasets?style=social"/> : Pointers to large-scale underwater datasets and relevant resources.
 
@@ -63,7 +63,7 @@
 
 * ### Datasets Share Platform
 
-  * [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) ⭐ 697 | 🐛 30 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
+  * [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) ⭐ 697 | 🐛 30 | 🌐 Python | 📅 2026-11-04 <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 
   * [OpenDataLab](https://opendatalab.org.cn/) : OpenDataLab 是上海人工智能实验室的大模型数据基座团队打造的数据开放平台，现已成为中国大模型语料数据联盟开源数据服务指定平台，为开发者提供全链条的 AI 数据支持，应对和解决数据处理中的风险与挑战，推动 AI 研究及应用。
 
@@ -79,13 +79,13 @@
 
   * #### Data Annotation
 
-    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,619 | 🐛 959 | 🌐 TypeScript | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,626 | 🐛 961 | 🌐 TypeScript | 📅 2026-11-04 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
     * [LabelImg](https://github.com/heartexlabs/labelImg) ⚠️ Archived <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
-    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 17,059 | 🐛 591 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 17,068 | 🐛 595 | 🌐 Python | 📅 2026-11-04 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
-    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,259 | 🐛 175 | 🌐 Python | 📅 2026-11-03 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,269 | 🐛 175 | 🌐 Python | 📅 2026-11-04 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
     * [VoTT](https://github.com/Microsoft/VoTT) ⚠️ Archived <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 
@@ -179,7 +179,7 @@
 
 * ### License Plate Detection and Recognition Datasets
 
-  * [CCPD](https://github.com/detectRecog/CCPD) ⭐ 2,666 | 🐛 93 | 🌐 Python | 📅 2024-02-15 <img src="https://img.shields.io/github/stars/csust7zhangjm/CCTSDB2021?style=social"/> : "Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline". (**[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/html/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.html)**)
+  * [CCPD](https://github.com/detectRecog/CCPD) ⭐ 2,663 | 🐛 93 | 🌐 Python | 📅 2024-02-15 <img src="https://img.shields.io/github/stars/csust7zhangjm/CCTSDB2021?style=social"/> : "Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline". (**[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/html/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.html)**)
 
 ## Adverse Weather Datasets
 
@@ -199,13 +199,13 @@
 
 ## Anti-UAV Datasets
 
-* [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) ⭐ 883 | 🐛 34 | 🌐 Python | 📅 2025-05-07 <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
+* [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) ⭐ 886 | 🐛 34 | 🌐 Python | 📅 2025-05-07 <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
 
 ## Optical Aerial Imagery Datasets
 
-* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,634 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
+* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,637 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
 
-* [AI-TOD](https://github.com/jwwangchn/AI-TOD) ⭐ 282 | 🐛 31 | 🌐 Python | 📅 2024-11-13 <img src="https://img.shields.io/github/stars/jwwangchn/AI-TOD?style=social"/> : "Tiny Object Detection in Aerial Images". (**[IEEE ICPR 2021](https://ieeexplore.ieee.org/abstract/document/9413340)**)
+* [AI-TOD](https://github.com/jwwangchn/AI-TOD) ⭐ 281 | 🐛 31 | 🌐 Python | 📅 2024-11-13 <img src="https://img.shields.io/github/stars/jwwangchn/AI-TOD?style=social"/> : "Tiny Object Detection in Aerial Images". (**[IEEE ICPR 2021](https://ieeexplore.ieee.org/abstract/document/9413340)**)
 
 * [RSOD](https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-) ⭐ 220 | 🐛 3 | 📅 2019-04-30 <img src="https://img.shields.io/github/stars/RSIA-LIESMARS-WHU/RSOD-Dataset-?style=social"/> : "Accurate object localization in remote sensing images based on convolutional neural networks". (**[IEEE TGRS 2017](https://ieeexplore.ieee.org/abstract/document/7827088/)**)
 
@@ -247,7 +247,7 @@
 
 ## Infrared Image Datasets
 
-* [NUDT-SIRST](https://github.com/YeRen123455/Infrared-Small-Target-Detection) ⭐ 536 | 🐛 26 | 🌐 Python | 📅 2024-10-06 <img src="https://img.shields.io/github/stars/YeRen123455/Infrared-Small-Target-Detection?style=social"/> : "Dense Nested Attention Network for Infrared Small Target Detection". (**[arXiv 2021](https://arxiv.org/abs/2106.00487)**)
+* [NUDT-SIRST](https://github.com/YeRen123455/Infrared-Small-Target-Detection) ⭐ 538 | 🐛 26 | 🌐 Python | 📅 2024-10-06 <img src="https://img.shields.io/github/stars/YeRen123455/Infrared-Small-Target-Detection?style=social"/> : "Dense Nested Attention Network for Infrared Small Target Detection". (**[arXiv 2021](https://arxiv.org/abs/2106.00487)**)
 
 * [SIRST](https://github.com/YimianDai/sirst) ⭐ 268 | 🐛 4 | 📅 2023-09-08 <img src="https://img.shields.io/github/stars/YimianDai/sirst?style=social"/> : "Asymmetric Contextual Modulation for Infrared Small Target Detection". (**[WACV 2021](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html)**)
 
@@ -315,9 +315,9 @@
 
 * [OpenCOOD|OPV2V](https://github.com/DerrickXuNu/OpenCOOD) ⭐ 841 | 🐛 38 | 🌐 Python | 📅 2024-08-17 <img src="https://img.shields.io/github/stars/DerrickXuNu/OpenCOOD?style=social"/> : OpenCOOD is an Open COOperative Detection framework for autonomous driving. It is also the official implementation of the ICRA 2022 paper [OPV2V](https://mobility-lab.seas.ucla.edu/opv2v/). "OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication". (**[ICRA, 2022](https://ieeexplore.ieee.org/abstract/document/9812038/)**). [mobility-lab.seas.ucla.edu/opv2v/](https://mobility-lab.seas.ucla.edu/opv2v/)
 
-* [DAIR-V2X](https://github.com/AIR-THU/DAIR-V2X) ⭐ 656 | 🐛 47 | 🌐 Python | 📅 2025-02-21 <img src="https://img.shields.io/github/stars/AIR-THU/DAIR-V2X?style=social"/> : "DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.html)**). [全球首个车路协同自动驾驶数据集发布](https://thudair.baai.ac.cn)
+* [DAIR-V2X](https://github.com/AIR-THU/DAIR-V2X) ⭐ 655 | 🐛 47 | 🌐 Python | 📅 2025-02-21 <img src="https://img.shields.io/github/stars/AIR-THU/DAIR-V2X?style=social"/> : "DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection". (**[CVPR, 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.html)**). [全球首个车路协同自动驾驶数据集发布](https://thudair.baai.ac.cn)
 
-* [V2X-ViT|V2XSet](https://github.com/DerrickXuNu/v2x-vit) ⭐ 349 | 🐛 7 | 🌐 Python | 📅 2024-09-06 <img src="https://img.shields.io/github/stars/DerrickXuNu/v2x-vit?style=social"/> : "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer". (**[ECCV, 2022](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_7)**).
+* [V2X-ViT|V2XSet](https://github.com/DerrickXuNu/v2x-vit) ⭐ 348 | 🐛 7 | 🌐 Python | 📅 2024-09-06 <img src="https://img.shields.io/github/stars/DerrickXuNu/v2x-vit?style=social"/> : "V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer". (**[ECCV, 2022](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_7)**).
 
 * [PJLab-ADG/LiDARSimLib-and-Placement-Evaluation](https://github.com/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation) ⭐ 273 | 🐛 14 | 🌐 Python | 📅 2025-06-12 <img src="https://img.shields.io/github/stars/PJLab-ADG/LiDARSimLib-and-Placement-Evaluation?style=social"/> : "Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library". (**[ICRA, 2023](https://arxiv.org/abs/2211.15975)**).
 
@@ -329,7 +329,7 @@
 
 * [V2X-Seq](https://github.com/AIR-THU/DAIR-V2X-Seq) ⭐ 211 | 🐛 21 | 🌐 Python | 📅 2025-02-21 <img src="https://img.shields.io/github/stars/AIR-THU/DAIR-V2X-Seq?style=social"/> : "V2X-Seq: A Large-Scale Sequential Dataset for Vehicle-Infrastructure Cooperative Perception and Forecasting". (**[CVPR, 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_V2X-Seq_A_Large-Scale_Sequential_Dataset_for_Vehicle-Infrastructure_Cooperative_Perception_and_CVPR_2023_paper.html)**). [全球首个大规模时序车路协同自动驾驶数据集发布](https://thudair.baai.ac.cn)
 
-* [CoAlign](https://github.com/yifanlu0227/CoAlign) ⭐ 187 | 🐛 9 | 🌐 Python | 📅 2024-07-23 <img src="https://img.shields.io/github/stars/yifanlu0227/CoAlign?style=social"/> : "Robust Collaborative 3D Object Detection in Presence of Pose Errors". (**[ICRA, 2023](https://arxiv.org/abs/2211.07214)**).
+* [CoAlign](https://github.com/yifanlu0227/CoAlign) ⭐ 188 | 🐛 9 | 🌐 Python | 📅 2024-07-23 <img src="https://img.shields.io/github/stars/yifanlu0227/CoAlign?style=social"/> : "Robust Collaborative 3D Object Detection in Presence of Pose Errors". (**[ICRA, 2023](https://arxiv.org/abs/2211.07214)**).
 
 ## Super-Resolution Field Datasets
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
