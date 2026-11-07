@@ -236,7 +236,7 @@
                 "open_issues": 2,
                 "owner": "ari-dasci",
                 "repo": "OD-WeaponDetection",
-                "stars": 250,
+                "stars": 251,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:41:39.379Z"
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T12:01:23Z",
+                    "last_commit": "2026-11-06T21:33:17Z",
                     "open_issues": 961,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28643,
+                    "stars": 28647,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25030,
+                    "stars": 25028,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T13:36:37Z",
+                    "last_commit": "2026-11-06T21:25:53Z",
                     "open_issues": 596,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 17086,
+                    "stars": 17091,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-06T05:32:29Z",
-                    "open_issues": 180,
+                    "last_commit": "2026-11-07T01:46:08Z",
+                    "open_issues": 178,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16291,
+                    "stars": 16296,
                     "topics": [
                       "annotations",
                       "classification",
@@ -561,7 +561,7 @@
                     "open_issues": 50,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3514,
+                    "stars": 3515,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -1218,7 +1218,7 @@
                     "open_issues": 0,
                     "owner": "albumentations-team",
                     "repo": "albumentations",
-                    "stars": 15299,
+                    "stars": 15298,
                     "topics": [
                       "augmentation",
                       "deep-learning",
@@ -1322,7 +1322,7 @@
                 "id": 104307608,
                 "language": null,
                 "license": null,
-                "last_commit": "2024-07-12T10:47:57Z",
+                "last_commit": "2026-11-07T11:05:46Z",
                 "open_issues": 16,
                 "owner": "csust7zhangjm",
                 "repo": "CCTSDB",
@@ -1890,7 +1890,7 @@
             "open_issues": 1,
             "owner": "JinyuanLiu-CV",
             "repo": "TarDAL",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "cvpr2022",
               "deep-learning",
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:14:46.729Z",
+    "last_updated": "2026-11-07T12:58:53.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
