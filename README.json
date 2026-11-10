@@ -24,7 +24,7 @@
                 "open_issues": 1,
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3856,
+                "stars": 3858,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2371,
+                "stars": 2372,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -81,7 +81,7 @@
                 "open_issues": 9,
                 "owner": "ZHOUYI1023",
                 "repo": "awesome-radar-perception",
-                "stars": 1899,
+                "stars": 1900,
                 "topics": [
                   "autonomous-driving",
                   "autonomous-vehicles",
@@ -144,7 +144,7 @@
                 "open_issues": 2,
                 "owner": "vvincenttttt",
                 "repo": "Awesome-3D-Object-Detection",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "3d-representation",
                   "autonomous-driving",
@@ -334,7 +334,7 @@
                 "open_issues": 38,
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
-                "stars": 698,
+                "stars": 700,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T13:13:13Z",
-                    "open_issues": 963,
+                    "last_commit": "2026-11-10T13:28:30Z",
+                    "open_issues": 966,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28662,
+                    "stars": 28669,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25029,
+                    "stars": 25028,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T15:55:49Z",
-                    "open_issues": 593,
+                    "last_commit": "2026-11-10T13:14:10Z",
+                    "open_issues": 592,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 17102,
+                    "stars": 17105,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-07T01:46:08Z",
-                    "open_issues": 179,
+                    "last_commit": "2026-11-10T13:48:47Z",
+                    "open_issues": 94,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16303,
+                    "stars": 16307,
                     "topics": [
                       "annotations",
                       "classification",
@@ -811,7 +811,7 @@
                     "open_issues": 13,
                     "owner": "pylabel-project",
                     "repo": "pylabel",
-                    "stars": 341,
+                    "stars": 342,
                     "topics": [
                       "annotation-tool",
                       "bounding-boxes",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2641,
+            "stars": 2643,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1767,7 +1767,7 @@
             "open_issues": 5,
             "owner": "chaozhong2010",
             "repo": "HRSID",
-            "stars": 309,
+            "stars": 310,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1869,7 +1869,7 @@
             "open_issues": 23,
             "owner": "SoonminHwang",
             "repo": "rgbt-ped-detection",
-            "stars": 397,
+            "stars": 398,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1917,7 +1917,7 @@
             "open_issues": 11,
             "owner": "Linfeng-Tang",
             "repo": "MSRS",
-            "stars": 286,
+            "stars": 285,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1938,7 +1938,7 @@
             "open_issues": 8,
             "owner": "haqishen",
             "repo": "MFNet-pytorch",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "deep-learning",
               "pytorch",
@@ -1999,7 +1999,7 @@
             "open_issues": 47,
             "owner": "AIR-THU",
             "repo": "DAIR-V2X",
-            "stars": 655,
+            "stars": 656,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T16:16:23.245Z",
+    "last_updated": "2026-11-10T14:51:24.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
