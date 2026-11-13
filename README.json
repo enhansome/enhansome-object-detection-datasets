@@ -24,7 +24,7 @@
                 "open_issues": 1,
                 "owner": "M-3LAB",
                 "repo": "awesome-industrial-anomaly-detection",
-                "stars": 3861,
+                "stars": 3862,
                 "topics": [
                   "anomaly-detection",
                   "anomaly-segmentation",
@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2372,
+                "stars": 2373,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -330,8 +330,8 @@
                 "id": 292016444,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T02:15:29Z",
-                "open_issues": 50,
+                "last_commit": "2026-11-13T12:13:11Z",
+                "open_issues": 74,
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
                 "stars": 700,
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T14:56:08Z",
-                    "open_issues": 964,
+                    "last_commit": "2026-11-13T09:18:54Z",
+                    "open_issues": 986,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28683,
+                    "stars": 28687,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25028,
+                    "stars": 25025,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-12T14:30:45Z",
-                    "open_issues": 589,
+                    "last_commit": "2026-11-13T12:33:21Z",
+                    "open_issues": 606,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 17124,
+                    "stars": 17136,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-12T15:08:29Z",
+                    "last_commit": "2026-11-13T13:38:55Z",
                     "open_issues": 72,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16313,
+                    "stars": 16314,
                     "topics": [
                       "annotations",
                       "classification",
@@ -525,7 +525,7 @@
                     "open_issues": 246,
                     "owner": "microsoft",
                     "repo": "VoTT",
-                    "stars": 4425,
+                    "stars": 4424,
                     "topics": [
                       "annotation-tool",
                       "cntk",
@@ -623,7 +623,7 @@
                     "open_issues": 33,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1706,
+                    "stars": 1707,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1375,7 +1375,7 @@
                 "open_issues": 93,
                 "owner": "detectRecog",
                 "repo": "CCPD",
-                "stars": 2667,
+                "stars": 2668,
                 "topics": [
                   "ccpd",
                   "dataset",
@@ -2134,7 +2134,7 @@
             "open_issues": 23,
             "owner": "MediaBrain-SJTU",
             "repo": "Where2comm",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:12:50.205Z",
+    "last_updated": "2026-11-13T14:33:23.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
