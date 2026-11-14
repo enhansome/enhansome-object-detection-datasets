@@ -1,6 +1,6 @@
 # Awesome-Object-Detection-Datasets with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,259 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,692 | 🐛 104 | 📅 2026-09-02
 
 🔥🔥🔥 This repository lists some awesome public object detection and recognition datasets.
 
@@ -55,7 +55,7 @@
 
   * [DLLXW/objectDetectionDatasets](https://github.com/DLLXW/objectDetectionDatasets) ⭐ 478 | 🐛 3 | 🌐 Python | 📅 2021-10-21 <img src="https://img.shields.io/github/stars/DLLXW/objectDetectionDatasets?style=social"/> : 目标检测数据集制作:VOC,COCO,YOLO等常用数据集格式的制作和互相转换脚本。
 
-  * [ari-dasci/OD-WeaponDetection](https://github.com/ari-dasci/OD-WeaponDetection) ⭐ 251 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-01-05 <img src="https://img.shields.io/github/stars/ari-dasci/OD-WeaponDetection?style=social"/> : Datasets for weapon detection based on image classification and object detection tasks.
+  * [ari-dasci/OD-WeaponDetection](https://github.com/ari-dasci/OD-WeaponDetection) ⭐ 252 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-01-05 <img src="https://img.shields.io/github/stars/ari-dasci/OD-WeaponDetection?style=social"/> : Datasets for weapon detection based on image classification and object detection tasks.
 
   * [codingonion/awesome-object-detection-and-recognition-datasets](https://github.com/codingonion/awesome-object-detection-and-recognition-datasets) ⭐ 146 | 🐛 0 | 📅 2025-01-07 <img src="https://img.shields.io/github/stars/codingonion/awesome-object-detection-and-recognition-datasets?style=social"/> : A collection of some awesome public object detection and recognition datasets.
 
@@ -63,7 +63,7 @@
 
 * ### Datasets Share Platform
 
-  * [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) ⭐ 700 | 🐛 74 | 🌐 Python | 📅 2026-11-13 <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
+  * [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) ⭐ 700 | 🐛 74 | 🌐 Python | 📅 2026-11-14 <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 
   * [OpenDataLab](https://opendatalab.org.cn/) : OpenDataLab 是上海人工智能实验室的大模型数据基座团队打造的数据开放平台，现已成为中国大模型语料数据联盟开源数据服务指定平台，为开发者提供全链条的 AI 数据支持，应对和解决数据处理中的风险与挑战，推动 AI 研究及应用。
 
@@ -79,17 +79,17 @@
 
   * #### Data Annotation
 
-    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,687 | 🐛 986 | 🌐 TypeScript | 📅 2026-11-13 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
+    * [Label Studio](https://github.com/HumanSignal/label-studio) ⭐ 28,692 | 🐛 985 | 🌐 TypeScript | 📅 2026-11-14 <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
     * [LabelImg](https://github.com/heartexlabs/labelImg) ⚠️ Archived <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
-    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 17,136 | 🐛 606 | 🌐 Python | 📅 2026-11-13 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+    * [CVAT](https://github.com/cvat-ai/cvat) ⭐ 17,135 | 🐛 596 | 🌐 Python | 📅 2026-11-13 <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
-    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,314 | 🐛 72 | 🌐 Python | 📅 2026-11-13 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
+    * [labelme](https://github.com/wkentaro/labelme) ⭐ 16,315 | 🐛 72 | 🌐 Python | 📅 2026-11-14 <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 
     * [VoTT](https://github.com/Microsoft/VoTT) ⚠️ Archived <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 
-    * [AnyLabeling](https://github.com/vietanhdev/anylabeling) ⭐ 3,523 | 🐛 51 | 🌐 Python | 📅 2026-08-30 <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
+    * [AnyLabeling](https://github.com/vietanhdev/anylabeling) ⭐ 3,524 | 🐛 51 | 🌐 Python | 📅 2026-08-30 <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
 
     * [AlexeyAB/Yolo\_mark](https://github.com/AlexeyAB/Yolo_mark) ⭐ 1,842 | 🐛 146 | 🌐 C++ | 📅 2020-12-11 <img src="https://img.shields.io/github/stars/AlexeyAB/Yolo_mark?style=social"/> : GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
 
@@ -203,7 +203,7 @@
 
 ## Optical Aerial Imagery Datasets
 
-* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,645 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
+* [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,646 | 🐛 51 | 📅 2023-09-24 <img src="https://img.shields.io/github/stars/VisDrone/VisDrone-Dataset?style=social"/> : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
 
 * [AI-TOD](https://github.com/jwwangchn/AI-TOD) ⭐ 285 | 🐛 31 | 🌐 Python | 📅 2024-11-13 <img src="https://img.shields.io/github/stars/jwwangchn/AI-TOD?style=social"/> : "Tiny Object Detection in Aerial Images". (**[IEEE ICPR 2021](https://ieeexplore.ieee.org/abstract/document/9413340)**)
 
@@ -381,4 +381,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
