@@ -331,7 +331,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-18T02:15:38Z",
-                "open_issues": 74,
+                "open_issues": 76,
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
                 "stars": 701,
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-18T15:30:39Z",
-                    "open_issues": 985,
+                    "last_commit": "2026-11-19T15:16:46Z",
+                    "open_issues": 987,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28727,
+                    "stars": 28732,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25024,
+                    "stars": 25022,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T14:34:43Z",
-                    "open_issues": 601,
+                    "last_commit": "2026-11-19T12:53:47Z",
+                    "open_issues": 603,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 17162,
+                    "stars": 17171,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-17T23:02:25Z",
-                    "open_issues": 76,
+                    "last_commit": "2026-11-19T14:48:10Z",
+                    "open_issues": 79,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16337,
+                    "stars": 16343,
                     "topics": [
                       "annotations",
                       "classification",
@@ -623,7 +623,7 @@
                     "open_issues": 33,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1709,
+                    "stars": 1710,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -860,7 +860,7 @@
                     "id": 335095302,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-30T18:40:22Z",
+                    "last_commit": "2026-11-18T20:50:17Z",
                     "open_issues": 6,
                     "owner": "stephanecharette",
                     "repo": "DarkMark",
@@ -922,7 +922,7 @@
                     "open_issues": 0,
                     "owner": "WangRongsheng",
                     "repo": "KDAT",
-                    "stars": 83,
+                    "stars": 84,
                     "topics": [
                       "detection",
                       "labelimg",
@@ -1218,7 +1218,7 @@
                     "open_issues": 0,
                     "owner": "albumentations-team",
                     "repo": "albumentations",
-                    "stars": 15295,
+                    "stars": 15296,
                     "topics": [
                       "augmentation",
                       "deep-learning",
@@ -1411,7 +1411,7 @@
             "open_issues": 35,
             "owner": "ucas-vg",
             "repo": "PointTinyBenchmark",
-            "stars": 700,
+            "stars": 701,
             "topics": [
               "benchmark",
               "dataset",
@@ -1441,7 +1441,7 @@
             "open_issues": 35,
             "owner": "ucas-vg",
             "repo": "PointTinyBenchmark",
-            "stars": 700,
+            "stars": 701,
             "topics": [
               "benchmark",
               "dataset",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2652,
+            "stars": 2653,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1698,7 +1698,7 @@
             "open_issues": 27,
             "owner": "YeRen123455",
             "repo": "Infrared-Small-Target-Detection",
-            "stars": 538,
+            "stars": 539,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:38:13.164Z",
+    "last_updated": "2026-11-19T15:43:29.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
