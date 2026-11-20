@@ -144,7 +144,7 @@
                 "open_issues": 2,
                 "owner": "vvincenttttt",
                 "repo": "Awesome-3D-Object-Detection",
-                "stars": 698,
+                "stars": 697,
                 "topics": [
                   "3d-representation",
                   "autonomous-driving",
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T15:16:46Z",
+                    "last_commit": "2026-11-20T06:09:54Z",
                     "open_issues": 987,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28732,
+                    "stars": 28734,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -421,7 +421,7 @@
                     "open_issues": 451,
                     "owner": "HumanSignal",
                     "repo": "labelImg",
-                    "stars": 25022,
+                    "stars": 25019,
                     "topics": [
                       "annotations",
                       "deep-learning",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-19T12:53:47Z",
+                    "last_commit": "2026-11-20T12:40:35Z",
                     "open_issues": 603,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 17171,
+                    "stars": 17177,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,11 +490,11 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-19T14:48:10Z",
-                    "open_issues": 79,
+                    "last_commit": "2026-11-20T08:34:57Z",
+                    "open_issues": 77,
                     "owner": "wkentaro",
                     "repo": "labelme",
-                    "stars": 16343,
+                    "stars": 16341,
                     "topics": [
                       "annotations",
                       "classification",
@@ -561,7 +561,7 @@
                     "open_issues": 51,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3534,
+                    "stars": 3533,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -594,7 +594,7 @@
                     "open_issues": 146,
                     "owner": "AlexeyAB",
                     "repo": "Yolo_mark",
-                    "stars": 1841,
+                    "stars": 1839,
                     "topics": [
                       "darknet",
                       "dnn",
@@ -623,7 +623,7 @@
                     "open_issues": 33,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1710,
+                    "stars": 1709,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -790,7 +790,7 @@
                     "open_issues": 21,
                     "owner": "darkpgmr",
                     "repo": "DarkLabel",
-                    "stars": 392,
+                    "stars": 393,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -811,7 +811,7 @@
                     "open_issues": 13,
                     "owner": "pylabel-project",
                     "repo": "pylabel",
-                    "stars": 342,
+                    "stars": 341,
                     "topics": [
                       "annotation-tool",
                       "bounding-boxes",
@@ -1375,7 +1375,7 @@
                 "open_issues": 93,
                 "owner": "detectRecog",
                 "repo": "CCPD",
-                "stars": 2669,
+                "stars": 2671,
                 "topics": [
                   "ccpd",
                   "dataset",
@@ -1411,7 +1411,7 @@
             "open_issues": 35,
             "owner": "ucas-vg",
             "repo": "PointTinyBenchmark",
-            "stars": 701,
+            "stars": 700,
             "topics": [
               "benchmark",
               "dataset",
@@ -1441,7 +1441,7 @@
             "open_issues": 35,
             "owner": "ucas-vg",
             "repo": "PointTinyBenchmark",
-            "stars": 701,
+            "stars": 700,
             "topics": [
               "benchmark",
               "dataset",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2653,
+            "stars": 2656,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1698,7 +1698,7 @@
             "open_issues": 27,
             "owner": "YeRen123455",
             "repo": "Infrared-Small-Target-Detection",
-            "stars": 539,
+            "stars": 537,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1815,7 +1815,7 @@
             "open_issues": 35,
             "owner": "bupt-ai-cz",
             "repo": "LLVIP",
-            "stars": 861,
+            "stars": 859,
             "topics": [
               "cnn",
               "computer-vision",
@@ -1848,7 +1848,7 @@
             "open_issues": 47,
             "owner": "VisDrone",
             "repo": "DroneVehicle",
-            "stars": 751,
+            "stars": 750,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1869,7 +1869,7 @@
             "open_issues": 23,
             "owner": "SoonminHwang",
             "repo": "rgbt-ped-detection",
-            "stars": 398,
+            "stars": 396,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1890,7 +1890,7 @@
             "open_issues": 1,
             "owner": "JinyuanLiu-CV",
             "repo": "TarDAL",
-            "stars": 375,
+            "stars": 374,
             "topics": [
               "cvpr2022",
               "deep-learning",
@@ -2113,7 +2113,7 @@
             "open_issues": 20,
             "owner": "ucla-mobility",
             "repo": "V2V4Real",
-            "stars": 231,
+            "stars": 232,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T15:43:29.681Z",
+    "last_updated": "2026-11-20T15:25:55.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
