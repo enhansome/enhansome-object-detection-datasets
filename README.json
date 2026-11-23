@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "wenhwu",
                 "repo": "awesome-remote-sensing-change-detection",
-                "stars": 2377,
+                "stars": 2379,
                 "topics": [
                   "awesome",
                   "change-detection",
@@ -330,8 +330,8 @@
                 "id": 292016444,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T02:37:45Z",
-                "open_issues": 71,
+                "last_commit": "2026-11-23T16:08:41Z",
+                "open_issues": 70,
                 "owner": "open-edge-platform",
                 "repo": "datumaro",
                 "stars": 701,
@@ -375,11 +375,11 @@
                     "id": 192640529,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T20:25:46Z",
-                    "open_issues": 988,
+                    "last_commit": "2026-11-23T11:29:56Z",
+                    "open_issues": 991,
                     "owner": "HumanSignal",
                     "repo": "label-studio",
-                    "stars": 28743,
+                    "stars": 28746,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -448,11 +448,11 @@
                     "id": 139156354,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T16:29:32Z",
-                    "open_issues": 607,
+                    "last_commit": "2026-11-23T16:45:27Z",
+                    "open_issues": 604,
                     "owner": "cvat-ai",
                     "repo": "cvat",
-                    "stars": 17185,
+                    "stars": 17195,
                     "topics": [
                       "annotation",
                       "annotation-tool",
@@ -490,7 +490,7 @@
                     "id": 58374888,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-20T08:34:57Z",
+                    "last_commit": "2026-11-22T17:27:25Z",
                     "open_issues": 77,
                     "owner": "wkentaro",
                     "repo": "labelme",
@@ -561,7 +561,7 @@
                     "open_issues": 51,
                     "owner": "vietanhdev",
                     "repo": "anylabeling",
-                    "stars": 3533,
+                    "stars": 3534,
                     "topics": [
                       "auto-labeling",
                       "computer-vision",
@@ -623,7 +623,7 @@
                     "open_issues": 28,
                     "owner": "opendatalab",
                     "repo": "labelU",
-                    "stars": 1710,
+                    "stars": 1711,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1218,7 +1218,7 @@
                     "open_issues": 0,
                     "owner": "albumentations-team",
                     "repo": "albumentations",
-                    "stars": 15295,
+                    "stars": 15294,
                     "topics": [
                       "augmentation",
                       "deep-learning",
@@ -1375,7 +1375,7 @@
                 "open_issues": 93,
                 "owner": "detectRecog",
                 "repo": "CCPD",
-                "stars": 2671,
+                "stars": 2672,
                 "topics": [
                   "ccpd",
                   "dataset",
@@ -1477,7 +1477,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2659,
+            "stars": 2660,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1498,7 +1498,7 @@
             "open_issues": 31,
             "owner": "jwwangchn",
             "repo": "AI-TOD",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "aerial-images",
               "computer-vision",
@@ -1589,7 +1589,7 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2023-12-13T23:56:24Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Ben93kie",
             "repo": "SeaDronesSee",
             "stars": 124,
@@ -1746,7 +1746,7 @@
             "open_issues": 61,
             "owner": "CAESAR-Radi",
             "repo": "SAR-Ship-Dataset",
-            "stars": 455,
+            "stars": 456,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1815,7 +1815,7 @@
             "open_issues": 35,
             "owner": "bupt-ai-cz",
             "repo": "LLVIP",
-            "stars": 859,
+            "stars": 858,
             "topics": [
               "cnn",
               "computer-vision",
@@ -1848,7 +1848,7 @@
             "open_issues": 47,
             "owner": "VisDrone",
             "repo": "DroneVehicle",
-            "stars": 750,
+            "stars": 751,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -1890,7 +1890,7 @@
             "open_issues": 1,
             "owner": "JinyuanLiu-CV",
             "repo": "TarDAL",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "cvpr2022",
               "deep-learning",
@@ -1917,7 +1917,7 @@
             "open_issues": 11,
             "owner": "Linfeng-Tang",
             "repo": "MSRS",
-            "stars": 286,
+            "stars": 285,
             "topics": []
           },
           "first_seen": "2026-08-28T18:41:39.379Z"
@@ -2193,7 +2193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T14:32:58.909Z",
+    "last_updated": "2026-11-23T18:05:38.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of some awesome public object detection and recognition datasets.",
